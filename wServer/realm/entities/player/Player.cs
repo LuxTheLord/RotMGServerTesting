@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using log4net;
+using MySql.Data.MySqlClient;
 using wServer.logic;
 using wServer.networking;
 using wServer.networking.cliPackets;
@@ -91,13 +92,25 @@ namespace wServer.realm.entities.player
 
                 Locked = psr.Account.Locked ?? new List<string>();
                 Ignored = psr.Account.Ignored ?? new List<string>();
+                manager.Database.DoActionAsync(db =>
+                {
+                    MySqlCommand cmd = db.CreateQuery();
+                    cmd.CommandText = "SELECT * FROM accounts WHERE id=@accId;";
+                    cmd.Parameters.AddWithValue("@accId", AccountId);
+                    using (MySqlDataReader rdr = cmd.ExecuteReader())
+                    {
+                        rdr.Read();
+                        Muted = rdr.GetBoolean("muted");
+
+                    }
+
+                });
                 try
                 {
                     Manager.Database.DoActionAsync(db =>
                     {
                         Locked = db.GetLockeds(AccountId);
                         Ignored = db.GetIgnoreds(AccountId);
-                        Muted = db.IsMuted(AccountId);
                         DailyQuest = psr.Account.DailyQuest;
                     });
                 }

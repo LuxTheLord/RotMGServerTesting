@@ -35,7 +35,12 @@ namespace wServer.networking.handlers
                         break;
                     }
                 }
-
+                if (client.Character.MagicPoints < 0)
+                {
+                    log.FatalFormat("{0} is trying to cheat (Mana Hacks)", client.Player.Name);
+                    client.Player.SendError("This cheating attempt has beed logged and a message was send to all online admins.");
+                    client.Disconnect();
+                }
                 if (client.Player.SlotTypes[stype] != item.SlotType && client.Account.Rank < 2)
                 {
                     log.FatalFormat("{0} is trying to cheat (Weapon doesnt match the slot type)", client.Player.Name);
