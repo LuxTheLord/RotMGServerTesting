@@ -1,0 +1,6 @@
+C:\Users\Amon\Desktop\RotMGServerTesting\DungeonGen\bin\Debug\DungeonGen.dll
+C:\Users\Amon\Desktop\RotMGServerTesting\DungeonGen\bin\Debug\DungeonGen.pdb
+C:\Users\Amon\Desktop\RotMGServerTesting\DungeonGen\bin\Debug\RotMG.Common.dll
+C:\Users\Amon\Desktop\RotMGServerTesting\DungeonGen\obj\Debug\DungeonGen.csprojResolveAssemblyReference.cache
+C:\Users\Amon\Desktop\RotMGServerTesting\DungeonGen\obj\Debug\DungeonGen.dll
+C:\Users\Amon\Desktop\RotMGServerTesting\DungeonGen\obj\Debug\DungeonGen.pdb
