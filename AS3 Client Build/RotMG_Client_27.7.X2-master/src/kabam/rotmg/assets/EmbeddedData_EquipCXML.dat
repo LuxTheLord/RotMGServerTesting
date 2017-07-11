@@ -16,7 +16,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Feline_Egg}</DisplayId>
    </Object>
    <Object type="0xc86" id="Uncommon Feline Egg">
@@ -34,7 +34,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Feline_Egg}</DisplayId>
    </Object>
@@ -54,7 +54,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Feline_Egg}</DisplayId>
    </Object>
    <Object type="0xc88" id="Legendary Feline Egg">
@@ -73,7 +73,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Feline_Egg}</DisplayId>
    </Object>
    <Object type="0xc89" id="Common Canine Egg">
@@ -91,7 +91,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Canine_Egg}</DisplayId>
    </Object>
    <Object type="0xc8a" id="Uncommon Canine Egg">
@@ -109,7 +109,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Canine_Egg}</DisplayId>
    </Object>
@@ -129,7 +129,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Canine_Egg}</DisplayId>
    </Object>
    <Object type="0xc8c" id="Legendary Canine Egg">
@@ -148,7 +148,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Canine_Egg}</DisplayId>
    </Object>
    <Object type="0xc8d" id="Common Avian Egg">
@@ -166,7 +166,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Avian_Egg}</DisplayId>
    </Object>
    <Object type="0xc8e" id="Uncommon Avian Egg">
@@ -184,7 +184,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Avian_Egg}</DisplayId>
    </Object>
@@ -204,7 +204,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Avian_Egg}</DisplayId>
    </Object>
    <Object type="0xc90" id="Legendary Avian Egg">
@@ -223,7 +223,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Avian_Egg}</DisplayId>
    </Object>
    <Object type="0xc91" id="Common Exotic Egg">
@@ -241,7 +241,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Exotic_Egg}</DisplayId>
    </Object>
    <Object type="0xc92" id="Uncommon Exotic Egg">
@@ -259,7 +259,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Exotic_Egg}</DisplayId>
    </Object>
@@ -279,7 +279,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Exotic_Egg}</DisplayId>
    </Object>
    <Object type="0xc94" id="Legendary Exotic Egg">
@@ -298,7 +298,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Exotic_Egg}</DisplayId>
    </Object>
    <Object type="0xc95" id="Common Farm Egg">
@@ -316,7 +316,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Farm_Egg}</DisplayId>
    </Object>
    <Object type="0xc96" id="Uncommon Farm Egg">
@@ -334,7 +334,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Farm_Egg}</DisplayId>
    </Object>
@@ -354,7 +354,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Farm_Egg}</DisplayId>
    </Object>
    <Object type="0xc98" id="Legendary Farm Egg">
@@ -373,7 +373,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Farm_Egg}</DisplayId>
    </Object>
    <Object type="0xc99" id="Common Woodland Egg">
@@ -391,7 +391,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Woodland_Egg}</DisplayId>
    </Object>
    <Object type="0xc9a" id="Uncommon Woodland Egg">
@@ -409,7 +409,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Woodland_Egg}</DisplayId>
    </Object>
@@ -429,7 +429,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Woodland_Egg}</DisplayId>
    </Object>
    <Object type="0xc9c" id="Legendary Woodland Egg">
@@ -448,7 +448,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Woodland_Egg}</DisplayId>
    </Object>
    <Object type="0xc9d" id="Common Reptile Egg">
@@ -466,7 +466,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Reptile_Egg}</DisplayId>
    </Object>
    <Object type="0xc9e" id="Uncommon Reptile Egg">
@@ -484,7 +484,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Reptile_Egg}</DisplayId>
    </Object>
@@ -504,7 +504,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Reptile_Egg}</DisplayId>
    </Object>
    <Object type="0xca0" id="Legendary Reptile Egg">
@@ -523,7 +523,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Reptile_Egg}</DisplayId>
    </Object>
    <Object type="0xca1" id="Common Insect Egg">
@@ -541,7 +541,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Insect_Egg}</DisplayId>
    </Object>
    <Object type="0xca2" id="Uncommon Insect Egg">
@@ -559,7 +559,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Insect_Egg}</DisplayId>
    </Object>
@@ -579,7 +579,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Insect_Egg}</DisplayId>
    </Object>
    <Object type="0xca4" id="Legendary Insect Egg">
@@ -598,7 +598,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Insect_Egg}</DisplayId>
    </Object>
    <Object type="0xca5" id="Common Penguin Egg">
@@ -616,7 +616,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Penguin_Egg}</DisplayId>
    </Object>
    <Object type="0xca6" id="Uncommon Penguin Egg">
@@ -634,7 +634,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Penguin_Egg}</DisplayId>
    </Object>
@@ -654,7 +654,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Penguin_Egg}</DisplayId>
    </Object>
    <Object type="0xca8" id="Legendary Penguin Egg">
@@ -673,7 +673,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Penguin_Egg}</DisplayId>
    </Object>
    <Object type="0xca9" id="Common Aquatic Egg">
@@ -691,7 +691,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Aquatic_Egg}</DisplayId>
    </Object>
    <Object type="0xcaa" id="Uncommon Aquatic Egg">
@@ -709,7 +709,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Aquatic_Egg}</DisplayId>
    </Object>
@@ -729,7 +729,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Aquatic_Egg}</DisplayId>
    </Object>
    <Object type="0xcac" id="Legendary Aquatic Egg">
@@ -748,7 +748,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Aquatic_Egg}</DisplayId>
    </Object>
    <Object type="0xcad" id="Common Spooky Egg">
@@ -766,7 +766,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Spooky_Egg}</DisplayId>
    </Object>
    <Object type="0xcae" id="Uncommon Spooky Egg">
@@ -784,7 +784,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Spooky_Egg}</DisplayId>
    </Object>
@@ -804,7 +804,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Spooky_Egg}</DisplayId>
    </Object>
    <Object type="0xcb0" id="Legendary Spooky Egg">
@@ -823,7 +823,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Spooky_Egg}</DisplayId>
    </Object>
    <Object type="0xcb1" id="Common Humanoid Egg">
@@ -841,7 +841,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Humanoid_Egg}</DisplayId>
    </Object>
    <Object type="0xcb2" id="Uncommon Humanoid Egg">
@@ -859,7 +859,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Humanoid_Egg}</DisplayId>
    </Object>
@@ -879,7 +879,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Humanoid_Egg}</DisplayId>
    </Object>
    <Object type="0xcb4" id="Legendary Humanoid Egg">
@@ -898,7 +898,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Humanoid_Egg}</DisplayId>
    </Object>
    <Object type="0xcb5" id="Common ???? Egg">
@@ -916,7 +916,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_????_Egg}</DisplayId>
    </Object>
    <Object type="0xcb6" id="Uncommon ???? Egg">
@@ -934,7 +934,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_????_Egg}</DisplayId>
    </Object>
@@ -954,7 +954,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_????_Egg}</DisplayId>
    </Object>
    <Object type="0xcb8" id="Legendary ???? Egg">
@@ -973,7 +973,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_????_Egg}</DisplayId>
    </Object>
    <Object type="0xcb9" id="Common Automaton Egg">
@@ -991,7 +991,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Automaton_Egg}</DisplayId>
    </Object>
    <Object type="0xcba" id="Uncommon Automaton Egg">
@@ -1009,7 +1009,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Automaton_Egg}</DisplayId>
    </Object>
@@ -1029,7 +1029,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Automaton_Egg}</DisplayId>
    </Object>
    <Object type="0xcbc" id="Legendary Automaton Egg">
@@ -1048,7 +1048,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Automaton_Egg}</DisplayId>
    </Object>
    <Object type="0xcbd" id="Common Mystery Egg">
@@ -1065,7 +1065,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Common_Mystery_Egg}</DisplayId>
    </Object>
    <Object type="0xcbe" id="Uncommon Mystery Egg">
@@ -1082,7 +1082,7 @@
       <Activate>CreatePet</Activate>
       <Consumable/>
       <BagType>3</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Uncommon_Mystery_Egg}</DisplayId>
    </Object>
@@ -1101,7 +1101,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.Rare_Mystery_Egg}</DisplayId>
    </Object>
    <Object type="0xcc0" id="Legendary Mystery Egg">
@@ -1119,7 +1119,7 @@
       <Consumable/>
       <Soulbound/>
       <BagType>3</BagType>
-      <feedPower>3000</feedPower>
+
       <DisplayId>{equip.Legendary_Mystery_Egg}</DisplayId>
    </Object>
    <Object type="0xa00" id="Short Sword">
@@ -1143,7 +1143,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Short_Sword}</DisplayId>
    </Object>
    <Object type="0xa6c" id="Broad Sword">
@@ -1167,7 +1167,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Broad_Sword}</DisplayId>
    </Object>
    <Object type="0xa6d" id="Saber">
@@ -1191,7 +1191,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Saber}</DisplayId>
    </Object>
    <Object type="0xa01" id="Long Sword">
@@ -1215,7 +1215,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Long_Sword}</DisplayId>
    </Object>
    <Object type="0xa6e" id="Falchion">
@@ -1239,7 +1239,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>22</feedPower>
+
       <DisplayId>{equip.Falchion}</DisplayId>
    </Object>
    <Object type="0xa3b" id="Fire Sword">
@@ -1263,7 +1263,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>32</feedPower>
+
       <DisplayId>{equip.Fire_Sword}</DisplayId>
    </Object>
    <Object type="0xa3c" id="Glass Sword">
@@ -1287,7 +1287,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>47</feedPower>
+
       <DisplayId>{equip.Glass_Sword}</DisplayId>
    </Object>
    <Object type="0xa02" id="Golden Sword">
@@ -1311,7 +1311,7 @@
       </Projectile>
       <BagType>2</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>70</feedPower>
+
       <DisplayId>{equip.Golden_Sword}</DisplayId>
    </Object>
    <Object type="0xa82" id="Ravenheart Sword">
@@ -1336,7 +1336,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>100</feedPower>
+
       <DisplayId>{equip.Ravenheart_Sword}</DisplayId>
    </Object>
    <Object type="0xa83" id="Dragonsoul Sword">
@@ -1361,7 +1361,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Dragonsoul_Sword}</DisplayId>
    </Object>
    <Object type="0xa84" id="Archon Sword">
@@ -1386,7 +1386,7 @@
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>212</feedPower>
+
       <DisplayId>{equip.Archon_Sword}</DisplayId>
    </Object>
    <Object type="0xa47" id="Skysplitter Sword">
@@ -1411,7 +1411,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Skysplitter_Sword}</DisplayId>
    </Object>
    <Object type="0xb0b" id="Sword of Acclaim">
@@ -1436,7 +1436,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Sword_of_Acclaim}</DisplayId>
    </Object>
    <Object type="0x9c8" id="Sword of Splendor">
@@ -1460,7 +1460,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Sword_of_Splendor}</DisplayId>
    </Object>
@@ -1485,7 +1485,7 @@
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Sword_of_Majesty}</DisplayId>
    </Object>
@@ -1510,7 +1510,7 @@
       <BagType>6</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>400</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Crystal_Sword}</DisplayId>
    </Object>
@@ -1537,7 +1537,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>40</ArcGap>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>800</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Demon_Blade}</DisplayId>
    </Object>
@@ -1562,7 +1562,7 @@
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ancient_Stone_Sword}</DisplayId>
    </Object>
@@ -1588,7 +1588,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Fire_Wand}</DisplayId>
    </Object>
    <Object type="0xa6f" id="Force Wand">
@@ -1613,7 +1613,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Force_Wand}</DisplayId>
    </Object>
    <Object type="0xa70" id="Power Wand">
@@ -1638,7 +1638,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Power_Wand}</DisplayId>
    </Object>
    <Object type="0xa05" id="Missile Wand">
@@ -1663,7 +1663,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Missile_Wand}</DisplayId>
    </Object>
    <Object type="0xa71" id="Eldritch Wand">
@@ -1688,7 +1688,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>22</feedPower>
+
       <DisplayId>{equip.Eldritch_Wand}</DisplayId>
    </Object>
    <Object type="0xa06" id="Hell's Fire Wand">
@@ -1713,7 +1713,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>32</feedPower>
+
       <DisplayId>{equip.HellAPOSs_Fire_Wand}</DisplayId>
    </Object>
    <Object type="0xa3d" id="Wand of Dark Magic">
@@ -1738,7 +1738,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>47</feedPower>
+
       <DisplayId>{equip.Wand_of_Dark_Magic}</DisplayId>
    </Object>
    <Object type="0xae0" id="Wand of Arcane Flame">
@@ -1763,7 +1763,7 @@
       </Projectile>
       <BagType>2</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>70</feedPower>
+
       <DisplayId>{equip.Wand_of_Arcane_Flame}</DisplayId>
    </Object>
    <Object type="0xa4b" id="Sprite Wand">
@@ -1788,7 +1788,7 @@
       </Projectile>
       <BagType>4</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>200</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Sprite_Wand}</DisplayId>
    </Object>
@@ -1815,7 +1815,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>100</feedPower>
+
       <DisplayId>{equip.Wand_of_Death}</DisplayId>
    </Object>
    <Object type="0xa85" id="Wand of Deep Sorcery">
@@ -1841,7 +1841,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Wand_of_Deep_Sorcery}</DisplayId>
    </Object>
    <Object type="0xa86" id="Wand of Shadow">
@@ -1867,7 +1867,7 @@
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>212</feedPower>
+
       <DisplayId>{equip.Wand_of_Shadow}</DisplayId>
    </Object>
    <Object type="0xa87" id="Wand of Ancient Warning">
@@ -1893,7 +1893,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Wand_of_Ancient_Warning}</DisplayId>
    </Object>
    <Object type="0xaf6" id="Wand of Recompense">
@@ -1919,7 +1919,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Wand_of_Recompense}</DisplayId>
    </Object>
    <Object type="0x9ca" id="Wand of Evocation">
@@ -1943,7 +1943,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Wand_of_Evocation}</DisplayId>
    </Object>
@@ -1968,7 +1968,7 @@
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Wand_of_Retribution}</DisplayId>
    </Object>
@@ -1994,7 +1994,7 @@
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Crystal_Wand}</DisplayId>
    </Object>
@@ -2021,7 +2021,7 @@
       <BagType>6</BagType>
       <FameBonus>6</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>650</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Wand_of_the_Bulwark}</DisplayId>
    </Object>
@@ -2055,7 +2055,7 @@
       <MpCost>80</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>1</NumProjectiles>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Wooden_Shield}</DisplayId>
    </Object>
    <Object type="0xa09" id="Iron Shield">
@@ -2088,7 +2088,7 @@
       <MpCost>85</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>2</NumProjectiles>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Iron_Shield}</DisplayId>
    </Object>
    <Object type="0xa0a" id="Steel Shield">
@@ -2121,7 +2121,7 @@
       <MpCost>90</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>3</NumProjectiles>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Steel_Shield}</DisplayId>
    </Object>
    <Object type="0xacf" id="Reinforced Shield">
@@ -2155,7 +2155,7 @@
       <MpCost>95</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>3</NumProjectiles>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Reinforced_Shield}</DisplayId>
    </Object>
    <Object type="0xa0b" id="Golden Shield">
@@ -2189,7 +2189,7 @@
       <MpCost>100</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>4</NumProjectiles>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Golden_Shield}</DisplayId>
    </Object>
    <Object type="0xa0c" id="Mithril Shield">
@@ -2223,7 +2223,7 @@
       <MpCost>100</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>5</NumProjectiles>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Mithril_Shield}</DisplayId>
    </Object>
    <Object type="0xb22" id="Colossus Shield">
@@ -2259,7 +2259,7 @@
       <MpCost>100</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>5</NumProjectiles>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Colossus_Shield}</DisplayId>
    </Object>
    <Object type="0xa40" id="Snake Skin Shield">
@@ -2292,7 +2292,7 @@
       <MpCost>100</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>4</NumProjectiles>
-      <feedPower>175</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Snake_Skin_Shield}</DisplayId>
    </Object>
@@ -2327,7 +2327,7 @@
       <MpCost>100</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>5</NumProjectiles>
-      <feedPower>1000</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Shield_of_Ogmur}</DisplayId>
    </Object>
@@ -2343,7 +2343,7 @@
       <Description>{equip.Leather_armor_fashioned_from_wolf_pelts.}</Description>
       <ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Wolfskin_Armor}</DisplayId>
    </Object>
    <Object type="0xa0d" id="Leather Armor">
@@ -2358,7 +2358,7 @@
       <Description>{equip.Armor_made_of_hardened_leather.}</Description>
       <ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>9</feedPower>
+
       <DisplayId>{equip.Leather_Armor}</DisplayId>
    </Object>
    <Object type="0xa79" id="Basilisk Hide Armor">
@@ -2373,7 +2373,7 @@
       <Description>{equip.Leather_armor_made_from_the_skin_of_a_magical_lizard.}</Description>
       <ActivateOnEquip stat="21" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>14</feedPower>
+
       <DisplayId>{equip.Basilisk_Hide_Armor}</DisplayId>
    </Object>
    <Object type="0xa7a" id="Minotaur Hide Armor">
@@ -2389,7 +2389,7 @@
       <ActivateOnEquip stat="21" amount="8">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Minotaur_Hide_Armor}</DisplayId>
    </Object>
    <Object type="0xad0" id="Bearskin Armor">
@@ -2405,7 +2405,7 @@
       <ActivateOnEquip stat="21" amount="9">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>27</feedPower>
+
       <DisplayId>{equip.Bearskin_Armor}</DisplayId>
    </Object>
    <Object type="0xad1" id="Chimera Hide Armor">
@@ -2421,7 +2421,7 @@
       <ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>39</feedPower>
+
       <DisplayId>{equip.Chimera_Hide_Armor}</DisplayId>
    </Object>
    <Object type="0xad2" id="Wyvern Skin Armor">
@@ -2437,7 +2437,7 @@
       <ActivateOnEquip stat="21" amount="12">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="28" amount="2">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
-      <feedPower>55</feedPower>
+
       <DisplayId>{equip.Wyvern_Skin_Armor}</DisplayId>
    </Object>
    <Object type="0xa0e" id="Studded Leather Armor">
@@ -2453,7 +2453,7 @@
       <ActivateOnEquip stat="21" amount="13">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
-      <feedPower>77</feedPower>
+
       <DisplayId>{equip.Studded_Leather_Armor}</DisplayId>
    </Object>
    <Object type="0xa3e" id="Snake Skin Armor">
@@ -2470,7 +2470,7 @@
       <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>120</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Snake_Skin_Armor}</DisplayId>
    </Object>
@@ -2488,7 +2488,7 @@
       <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>110</feedPower>
+
       <DisplayId>{equip.Drake_Hide_Armor}</DisplayId>
    </Object>
    <Object type="0xa8e" id="Roc Leather Armor">
@@ -2505,7 +2505,7 @@
       <ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>155</feedPower>
+
       <DisplayId>{equip.Roc_Leather_Armor}</DisplayId>
    </Object>
    <Object type="0xa8f" id="Hippogriff Hide Armor">
@@ -2522,7 +2522,7 @@
       <ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>218</feedPower>
+
       <DisplayId>{equip.Hippogriff_Hide_Armor}</DisplayId>
    </Object>
    <Object type="0xa90" id="Griffon Hide Armor">
@@ -2539,7 +2539,7 @@
       <ActivateOnEquip stat="28" amount="4">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>308</feedPower>
+
       <DisplayId>{equip.Griffon_Hide_Armor}</DisplayId>
    </Object>
    <Object type="0xaf9" id="Hydra Skin Armor">
@@ -2556,7 +2556,7 @@
       <ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>435</feedPower>
+
       <DisplayId>{equip.Hydra_Skin_Armor}</DisplayId>
    </Object>
    <Object type="0x9c1" id="Wyrmhide Armor">
@@ -2572,7 +2572,7 @@
       <ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Wyrmhide_Armor}</DisplayId>
    </Object>
@@ -2589,7 +2589,7 @@
       <ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>6</FameBonus>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Leviathan_Armor}</DisplayId>
    </Object>
@@ -2605,7 +2605,7 @@
       <Description>{equip.Armor_made_from_interlocking_iron_links.}</Description>
       <ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Iron_Mail}</DisplayId>
    </Object>
    <Object type="0xa0f" id="Chainmail">
@@ -2620,7 +2620,7 @@
       <Description>{equip.Armor_made_from_interlocking_links_of_metal.}</Description>
       <ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>9</feedPower>
+
       <DisplayId>{equip.Chainmail}</DisplayId>
    </Object>
    <Object type="0xa7c" id="Blue Steel Mail">
@@ -2635,7 +2635,7 @@
       <Description>{equip.Mail_made_from_blued_steel.}</Description>
       <ActivateOnEquip stat="21" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>14</feedPower>
+
       <DisplayId>{equip.Blue_Steel_Mail}</DisplayId>
    </Object>
    <Object type="0xa7d" id="Silver Chainmail">
@@ -2650,7 +2650,7 @@
       <Description>{equip.Well-made_chainmail_plated_with_silver.}</Description>
       <ActivateOnEquip stat="21" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Silver_Chainmail}</DisplayId>
    </Object>
    <Object type="0xa10" id="Golden Chainmail">
@@ -2665,7 +2665,7 @@
       <Description>{equip.Well-made_chainmail_plated_with_gold,_clearly_intended_for_}</Description>
       <ActivateOnEquip stat="21" amount="10">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>27</feedPower>
+
       <DisplayId>{equip.Golden_Chainmail}</DisplayId>
    </Object>
    <Object type="0xa11" id="Plate Mail">
@@ -2680,7 +2680,7 @@
       <Description>{equip.Armor_made_from_overlapping_plates_of_metal.}</Description>
       <ActivateOnEquip stat="21" amount="12">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>39</feedPower>
+
       <DisplayId>{equip.Plate_Mail}</DisplayId>
    </Object>
    <Object type="0xadf" id="Mithril Chainmail">
@@ -2695,7 +2695,7 @@
       <Description>{equip.Chainmail_made_with_reinforcing_mithril_ribs.}</Description>
       <ActivateOnEquip stat="21" amount="13">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
-      <feedPower>55</feedPower>
+
       <DisplayId>{equip.Mithril_Chainmail}</DisplayId>
    </Object>
    <Object type="0xa12" id="Mithril Armor">
@@ -2711,7 +2711,7 @@
       <ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>77</feedPower>
+
       <DisplayId>{equip.Mithril_Armor}</DisplayId>
    </Object>
    <Object type="0xa13" id="Dragonscale Armor">
@@ -2727,7 +2727,7 @@
       <ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>110</feedPower>
+
       <DisplayId>{equip.Dragonscale_Armor}</DisplayId>
    </Object>
    <Object type="0xa91" id="Desolation Armor">
@@ -2743,7 +2743,7 @@
       <ActivateOnEquip stat="21" amount="21">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>155</feedPower>
+
       <DisplayId>{equip.Desolation_Armor}</DisplayId>
    </Object>
    <Object type="0xa92" id="Vengeance Armor">
@@ -2759,7 +2759,7 @@
       <ActivateOnEquip stat="21" amount="22">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>218</feedPower>
+
       <DisplayId>{equip.Vengeance_Armor}</DisplayId>
    </Object>
    <Object type="0xa93" id="Abyssal Armor">
@@ -2775,7 +2775,7 @@
       <ActivateOnEquip stat="21" amount="23">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>308</feedPower>
+
       <DisplayId>{equip.Abyssal_Armor}</DisplayId>
    </Object>
    <Object type="0xafc" id="Acropolis Armor">
@@ -2791,7 +2791,7 @@
       <ActivateOnEquip stat="21" amount="24">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>435</feedPower>
+
       <DisplayId>{equip.Acropolis_Armor}</DisplayId>
    </Object>
    <Object type="0x9c4" id="Dominion Armor">
@@ -2806,7 +2806,7 @@
       <ActivateOnEquip stat="21" amount="25">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Dominion_Armor}</DisplayId>
    </Object>
@@ -2822,7 +2822,7 @@
       <ActivateOnEquip stat="21" amount="26">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>6</FameBonus>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Annihilation_Armor}</DisplayId>
    </Object>
@@ -2847,7 +2847,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Steel_Dagger}</DisplayId>
    </Object>
    <Object type="0xa15" id="Dirk">
@@ -2871,7 +2871,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Dirk}</DisplayId>
    </Object>
    <Object type="0xa72" id="Blue Steel Dagger">
@@ -2895,7 +2895,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Blue_Steel_Dagger}</DisplayId>
    </Object>
    <Object type="0xa73" id="Dusky Rose Dagger">
@@ -2919,7 +2919,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Dusky_Rose_Dagger}</DisplayId>
    </Object>
    <Object type="0xa74" id="Silver Dagger">
@@ -2943,7 +2943,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>22</feedPower>
+
       <DisplayId>{equip.Silver_Dagger}</DisplayId>
    </Object>
    <Object type="0xa16" id="Golden Dagger">
@@ -2967,7 +2967,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>32</feedPower>
+
       <DisplayId>{equip.Golden_Dagger}</DisplayId>
    </Object>
    <Object type="0xa17" id="Obsidian Dagger">
@@ -2991,7 +2991,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>47</feedPower>
+
       <DisplayId>{equip.Obsidian_Dagger}</DisplayId>
    </Object>
    <Object type="0x709" id="Poison Fang Dagger">
@@ -3014,7 +3014,7 @@
       </Projectile>
       <BagType>4</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>150</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Poison_Fang_Dagger}</DisplayId>
    </Object>
@@ -3039,7 +3039,7 @@
       </Projectile>
       <BagType>2</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>70</feedPower>
+
       <DisplayId>{equip.Mithril_Dagger}</DisplayId>
    </Object>
    <Object type="0xa19" id="Fire Dagger">
@@ -3064,7 +3064,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>100</feedPower>
+
       <DisplayId>{equip.Fire_Dagger}</DisplayId>
    </Object>
    <Object type="0xa88" id="Ragetalon Dagger">
@@ -3089,7 +3089,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Ragetalon_Dagger}</DisplayId>
    </Object>
    <Object type="0xa89" id="Emeraldshard Dagger">
@@ -3114,7 +3114,7 @@
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>212</feedPower>
+
       <DisplayId>{equip.Emeraldshard_Dagger}</DisplayId>
    </Object>
    <Object type="0xa8a" id="Agateclaw Dagger">
@@ -3139,7 +3139,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Agateclaw_Dagger}</DisplayId>
    </Object>
    <Object type="0xaff" id="Dagger of Foul Malevolence">
@@ -3164,7 +3164,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Dagger_of_Foul_Malevolence}</DisplayId>
    </Object>
    <Object type="0x9c6" id="Dagger of Sinister Deeds">
@@ -3188,7 +3188,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Dagger_of_Sinister_Deeds}</DisplayId>
    </Object>
@@ -3213,7 +3213,7 @@
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Dagger_of_Dire_Hatred}</DisplayId>
    </Object>
@@ -3239,7 +3239,7 @@
       <BagType>6</BagType>
       <FameBonus>6</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>950</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Dirk_of_Cronus}</DisplayId>
    </Object>
@@ -3265,7 +3265,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Shortbow}</DisplayId>
    </Object>
    <Object type="0xa75" id="Reinforced Bow">
@@ -3290,7 +3290,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Reinforced_Bow}</DisplayId>
    </Object>
    <Object type="0xa1b" id="Crossbow">
@@ -3315,7 +3315,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Crossbow}</DisplayId>
    </Object>
    <Object type="0xa76" id="Greywood Bow">
@@ -3340,7 +3340,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Greywood_Bow}</DisplayId>
    </Object>
    <Object type="0xa77" id="Ironwood Bow">
@@ -3365,7 +3365,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>22</feedPower>
+
       <DisplayId>{equip.Ironwood_Bow}</DisplayId>
    </Object>
    <Object type="0xa1c" id="Fire Bow">
@@ -3390,7 +3390,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>32</feedPower>
+
       <DisplayId>{equip.Fire_Bow}</DisplayId>
    </Object>
    <Object type="0xa1d" id="Double Bow">
@@ -3416,7 +3416,7 @@
       <BagType>1</BagType>
       <NumProjectiles>2</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>47</feedPower>
+
       <DisplayId>{equip.Double_Bow}</DisplayId>
    </Object>
    <Object type="0xa3a" id="Heavy Crossbow">
@@ -3441,7 +3441,7 @@
       </Projectile>
       <BagType>2</BagType>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>70</feedPower>
+
       <DisplayId>{equip.Heavy_Crossbow}</DisplayId>
    </Object>
    <Object type="0xa1e" id="Golden Bow">
@@ -3468,7 +3468,7 @@
       <FameBonus>1</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>100</feedPower>
+
       <DisplayId>{equip.Golden_Bow}</DisplayId>
    </Object>
    <Object type="0xa8b" id="Verdant Bow">
@@ -3495,7 +3495,7 @@
       <FameBonus>1</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Verdant_Bow}</DisplayId>
    </Object>
    <Object type="0xa8c" id="Bow of Fey Magic">
@@ -3522,7 +3522,7 @@
       <FameBonus>2</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>212</feedPower>
+
       <DisplayId>{equip.Bow_of_Fey_Magic}</DisplayId>
    </Object>
    <Object type="0xa8d" id="Bow of Innocent Blood">
@@ -3549,7 +3549,7 @@
       <FameBonus>3</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Bow_of_Innocent_Blood}</DisplayId>
    </Object>
    <Object type="0xb02" id="Bow of Covert Havens">
@@ -3576,7 +3576,7 @@
       <FameBonus>4</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Bow_of_Covert_Havens}</DisplayId>
    </Object>
    <Object type="0x9cc" id="Bow of Mystical Energy">
@@ -3602,7 +3602,7 @@
       <FameBonus>4</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Bow_of_Mystical_Energy}</DisplayId>
    </Object>
@@ -3629,7 +3629,7 @@
       <FameBonus>5</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Bow_of_Deep_Enchantment}</DisplayId>
    </Object>
@@ -3656,7 +3656,7 @@
       <FameBonus>6</FameBonus>
       <NumProjectiles>1</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Doom_Bow}</DisplayId>
    </Object>
@@ -3683,7 +3683,7 @@
       <FameBonus>6</FameBonus>
       <NumProjectiles>2</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>1200</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Coral_Bow}</DisplayId>
    </Object>
@@ -3702,7 +3702,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Attack}</DisplayId>
    </Object>
    <Object type="0xa20" id="Potion of Defense">
@@ -3720,7 +3720,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Defense}</DisplayId>
    </Object>
    <Object type="0xa21" id="Potion of Speed">
@@ -3738,7 +3738,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Speed}</DisplayId>
    </Object>
    <Object type="0xa34" id="Potion of Vitality">
@@ -3756,7 +3756,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Vitality}</DisplayId>
    </Object>
    <Object type="0xa35" id="Potion of Wisdom">
@@ -3774,7 +3774,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Wisdom}</DisplayId>
    </Object>
    <Object type="0xa4c" id="Potion of Dexterity">
@@ -3792,7 +3792,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Dexterity}</DisplayId>
    </Object>
    <Object type="0xae9" id="Potion of Life">
@@ -3809,7 +3809,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.Potion_of_Life}</DisplayId>
    </Object>
    <Object type="0xaea" id="Potion of Mana">
@@ -3826,7 +3826,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.Potion_of_Mana}</DisplayId>
    </Object>
    <Object type="0x1559" id="Potion of Attack (SB)">
@@ -3844,7 +3844,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Attack_(SB)}</DisplayId>
    </Object>
    <Object type="0x155A" id="Potion of Defense (SB)">
@@ -3862,7 +3862,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Defense_(SB)}</DisplayId>
    </Object>
    <Object type="0x155B" id="Potion of Speed (SB)">
@@ -3880,7 +3880,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Speed_(SB)}</DisplayId>
    </Object>
    <Object type="0x155C" id="Potion of Vitality (SB)">
@@ -3898,7 +3898,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Vitality_(SB)}</DisplayId>
    </Object>
    <Object type="0x155D" id="Potion of Wisdom (SB)">
@@ -3916,7 +3916,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Wisdom_(SB)}</DisplayId>
    </Object>
    <Object type="0x155E" id="Potion of Dexterity (SB)">
@@ -3934,7 +3934,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Potion_of_Dexterity_(SB)}</DisplayId>
    </Object>
    <Object type="0x155F" id="Potion of Life (SB)">
@@ -3952,7 +3952,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.Potion_of_Life_(SB)}</DisplayId>
    </Object>
    <Object type="0x1560" id="Potion of Mana (SB)">
@@ -3970,7 +3970,7 @@
       <Potion/>
       <Soulbound/>
       <BagType>5</BagType>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.Potion_of_Mana_(SB)}</DisplayId>
    </Object>
    <Object type="0x1561" id="Olive Gladiator Skin">
@@ -4047,7 +4047,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Minor_Health_Potion}</DisplayId>
    </Object>
    <Object type="0xadd" id="Minor Magic Potion">
@@ -4064,7 +4064,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Minor_Magic_Potion}</DisplayId>
    </Object>
    <Object type="0xa22" id="Health Potion">
@@ -4082,7 +4082,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Health_Potion}</DisplayId>
    </Object>
    <Object type="0xa23" id="Magic Potion">
@@ -4100,7 +4100,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Magic_Potion}</DisplayId>
    </Object>
    <Object type="0xb34" id="Fire Water">
@@ -4118,7 +4118,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Fire_Water}</DisplayId>
    </Object>
    <Object type="0xb35" id="Cream Spirit">
@@ -4136,7 +4136,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Cream_Spirit}</DisplayId>
    </Object>
    <Object type="0xb36" id="Chardonnay">
@@ -4154,7 +4154,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Chardonnay}</DisplayId>
    </Object>
    <Object type="0xb37" id="Melon Liqueur">
@@ -4172,7 +4172,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Melon_Liqueur}</DisplayId>
    </Object>
    <Object type="0xb38" id="Cabernet">
@@ -4190,7 +4190,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Cabernet}</DisplayId>
    </Object>
    <Object type="0xb39" id="Vintage Port">
@@ -4208,7 +4208,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Vintage_Port}</DisplayId>
    </Object>
    <Object type="0xb3a" id="Sauvignon Blanc">
@@ -4226,7 +4226,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Sauvignon_Blanc}</DisplayId>
    </Object>
    <Object type="0xb3b" id="Muscat">
@@ -4244,7 +4244,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Muscat}</DisplayId>
    </Object>
    <Object type="0xb3c" id="Rice Wine">
@@ -4262,7 +4262,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Rice_Wine}</DisplayId>
    </Object>
    <Object type="0xb3d" id="Shiraz">
@@ -4280,7 +4280,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Shiraz}</DisplayId>
    </Object>
    <Object type="0xb14" id="Elixir of Health 7">
@@ -4301,7 +4301,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>35</feedPower>
+
    </Object>
    <Object type="0xb15" id="Elixir of Health 6">
       <DisplayId>{equip.Elixir_of_Health_6}</DisplayId>
@@ -4321,7 +4321,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>30</feedPower>
+
    </Object>
    <Object type="0xb16" id="Elixir of Health 5">
       <DisplayId>{equip.Elixir_of_Health_5}</DisplayId>
@@ -4341,7 +4341,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>25</feedPower>
+
    </Object>
    <Object type="0xb17" id="Elixir of Health 4">
       <DisplayId>{equip.Elixir_of_Health_4}</DisplayId>
@@ -4361,7 +4361,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>20</feedPower>
+
    </Object>
    <Object type="0xa81" id="Elixir of Health 3">
       <DisplayId>{equip.Elixir_of_Health_3}</DisplayId>
@@ -4381,7 +4381,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>15</feedPower>
+
    </Object>
    <Object type="0xa48" id="Elixir of Health 2">
       <DisplayId>{equip.Elixir_of_Health_2}</DisplayId>
@@ -4401,7 +4401,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>10</feedPower>
+
    </Object>
    <Object type="0xa49" id="Elixir of Health 1">
       <DisplayId>{equip.Elixir_of_Health_1}</DisplayId>
@@ -4419,7 +4419,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>5</feedPower>
+
    </Object>
    <Object type="0xb18" id="Elixir of Magic 7">
       <DisplayId>{equip.Elixir_of_Magic_7}</DisplayId>
@@ -4439,7 +4439,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>35</feedPower>
+
    </Object>
    <Object type="0xb19" id="Elixir of Magic 6">
       <DisplayId>{equip.Elixir_of_Magic_6}</DisplayId>
@@ -4459,7 +4459,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>30</feedPower>
+
    </Object>
    <Object type="0xb1a" id="Elixir of Magic 5">
       <DisplayId>{equip.Elixir_of_Magic_5}</DisplayId>
@@ -4479,7 +4479,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>25</feedPower>
+
    </Object>
    <Object type="0xb1b" id="Elixir of Magic 4">
       <DisplayId>{equip.Elixir_of_Magic_4}</DisplayId>
@@ -4499,7 +4499,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>20</feedPower>
+
    </Object>
    <Object type="0xa4a" id="Elixir of Magic 3">
       <DisplayId>{equip.Elixir_of_Magic_3}</DisplayId>
@@ -4519,7 +4519,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>15</feedPower>
+
    </Object>
    <Object type="0xaed" id="Elixir of Magic 2">
       <DisplayId>{equip.Elixir_of_Magic_2}</DisplayId>
@@ -4539,7 +4539,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>10</feedPower>
+
    </Object>
    <Object type="0xaee" id="Elixir of Magic 1">
       <DisplayId>{equip.Elixir_of_Magic_1}</DisplayId>
@@ -4557,7 +4557,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>2</BagType>
-      <feedPower>5</feedPower>
+
    </Object>
    <Object type="0xa3f" id="Snake Oil">
       <Class>Equipment</Class>
@@ -4573,7 +4573,7 @@
       <Potion/>
       <BagType>0</BagType>
       <Activate range="10" amount="100">HealNova</Activate>
-      <feedPower>35</feedPower>
+
       <DisplayId>{equip.Snake_Oil}</DisplayId>
    </Object>
    <Object type="0x707" id="Healing Ichor">
@@ -4590,7 +4590,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Healing_Ichor}</DisplayId>
    </Object>
    <Object type="0xaeb" id="Greater Health Potion">
@@ -4608,7 +4608,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Greater_Health_Potion}</DisplayId>
    </Object>
    <Object type="0xaec" id="Greater Magic Potion">
@@ -4626,7 +4626,7 @@
       <Soulbound/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Greater_Magic_Potion}</DisplayId>
    </Object>
    <Object type="0x77b" id="Tincture of Fear">
@@ -4645,7 +4645,7 @@
       <BagType>5</BagType>
       <Activate stat="22" amount="15" duration="45">StatBoostSelf</Activate>
       <Activate stat="20" amount="-15" duration="60">StatBoostSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Tincture_of_Fear}</DisplayId>
    </Object>
    <Object type="0x77c" id="Tincture of Courage">
@@ -4664,7 +4664,7 @@
       <BagType>5</BagType>
       <Activate stat="22" amount="-10" duration="30">StatBoostSelf</Activate>
       <Activate stat="20" amount="15" duration="30">StatBoostSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Tincture_of_Courage}</DisplayId>
    </Object>
    <Object type="0xb0c" id="Tincture of Dexterity">
@@ -4682,7 +4682,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="28" amount="15" duration="30">StatBoostSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Tincture_of_Dexterity}</DisplayId>
    </Object>
    <Object type="0xb0d" id="Tincture of Life">
@@ -4700,7 +4700,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="0" amount="75" duration="30">StatBoostSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Tincture_of_Life}</DisplayId>
    </Object>
    <Object type="0xb0e" id="Tincture of Mana">
@@ -4718,7 +4718,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="3" amount="75" duration="30">StatBoostSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Tincture_of_Mana}</DisplayId>
    </Object>
    <Object type="0xb0f" id="Tincture of Defense">
@@ -4736,7 +4736,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="21" amount="15" duration="30">StatBoostSelf</Activate>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Tincture_of_Defense}</DisplayId>
    </Object>
    <Object type="0xb10" id="Effusion of Dexterity">
@@ -4754,7 +4754,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="28" amount="30" duration="30" range="6">StatBoostAura</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Effusion_of_Dexterity}</DisplayId>
    </Object>
    <Object type="0xb11" id="Effusion of Life">
@@ -4772,7 +4772,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="0" amount="150" duration="30" range="6">StatBoostAura</Activate>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Effusion_of_Life}</DisplayId>
    </Object>
    <Object type="0xb12" id="Effusion of Mana">
@@ -4790,7 +4790,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="3" amount="150" duration="30" range="6">StatBoostAura</Activate>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Effusion_of_Mana}</DisplayId>
    </Object>
    <Object type="0xb13" id="Effusion of Defense">
@@ -4808,7 +4808,7 @@
       <Potion/>
       <BagType>5</BagType>
       <Activate stat="21" amount="30" duration="30" range="6">StatBoostAura</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Effusion_of_Defense}</DisplayId>
    </Object>
    <Object type="0xa41" id="Snake Eye Ring">
@@ -4823,7 +4823,7 @@
       <ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
-      <feedPower>200</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Snake_Eye_Ring}</DisplayId>
    </Object>
@@ -4839,7 +4839,7 @@
       <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
-      <feedPower>200</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.SpiderAPOSs_Eye_Ring}</DisplayId>
    </Object>
@@ -4855,7 +4855,7 @@
       <Description>{equip.A_silver_ring_that_buzzes_with_a_faint_magical_hum.}</Description>
       <ActivateOnEquip stat="21" amount="1">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Ring_of_Minor_Defense}</DisplayId>
    </Object>
    <Object type="0xa24" id="Ring of Attack">
@@ -4870,7 +4870,7 @@
       <Description>{equip.A_spinel_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Attack}</DisplayId>
    </Object>
    <Object type="0xa25" id="Ring of Defense">
@@ -4885,7 +4885,7 @@
       <Description>{equip.An_onyx_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="21" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Defense}</DisplayId>
    </Object>
    <Object type="0xa26" id="Ring of Speed">
@@ -4900,7 +4900,7 @@
       <Description>{equip.An_emerald_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Speed}</DisplayId>
    </Object>
    <Object type="0xa36" id="Ring of Vitality">
@@ -4915,7 +4915,7 @@
       <Description>{equip.A_ruby_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Vitality}</DisplayId>
    </Object>
    <Object type="0xa37" id="Ring of Wisdom">
@@ -4930,7 +4930,7 @@
       <Description>{equip.A_sapphire_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Wisdom}</DisplayId>
    </Object>
    <Object type="0xa4d" id="Ring of Dexterity">
@@ -4945,7 +4945,7 @@
       <Description>{equip.A_citrine_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Dexterity}</DisplayId>
    </Object>
    <Object type="0xa27" id="Ring of Health">
@@ -4960,7 +4960,7 @@
       <Description>{equip.A_topaz_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Health}</DisplayId>
    </Object>
    <Object type="0xa28" id="Ring of Magic">
@@ -4975,7 +4975,7 @@
       <Description>{equip.An_amethyst_set_in_a_silver_ring.}</Description>
       <ActivateOnEquip stat="3" amount="40">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Ring_of_Magic}</DisplayId>
    </Object>
    <Object type="0xa29" id="Ring of Greater Attack">
@@ -4991,7 +4991,7 @@
       <ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Attack}</DisplayId>
    </Object>
    <Object type="0xa2a" id="Ring of Greater Defense">
@@ -5007,7 +5007,7 @@
       <ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Defense}</DisplayId>
    </Object>
    <Object type="0xa2b" id="Ring of Greater Speed">
@@ -5023,7 +5023,7 @@
       <ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Speed}</DisplayId>
    </Object>
    <Object type="0xa38" id="Ring of Greater Vitality">
@@ -5039,7 +5039,7 @@
       <ActivateOnEquip stat="26" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Vitality}</DisplayId>
    </Object>
    <Object type="0xa39" id="Ring of Greater Wisdom">
@@ -5055,7 +5055,7 @@
       <ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Wisdom}</DisplayId>
    </Object>
    <Object type="0xa4e" id="Ring of Greater Dexterity">
@@ -5071,7 +5071,7 @@
       <ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Dexterity}</DisplayId>
    </Object>
    <Object type="0xa2c" id="Ring of Greater Health">
@@ -5087,7 +5087,7 @@
       <ActivateOnEquip stat="0" amount="80">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Health}</DisplayId>
    </Object>
    <Object type="0xa2d" id="Ring of Greater Magic">
@@ -5103,7 +5103,7 @@
       <ActivateOnEquip stat="3" amount="80">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>37</feedPower>
+
       <DisplayId>{equip.Ring_of_Greater_Magic}</DisplayId>
    </Object>
    <Object type="0xab7" id="Ring of Superior Attack">
@@ -5119,7 +5119,7 @@
       <ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Attack}</DisplayId>
    </Object>
    <Object type="0xab8" id="Ring of Superior Defense">
@@ -5135,7 +5135,7 @@
       <ActivateOnEquip stat="21" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Defense}</DisplayId>
    </Object>
    <Object type="0xab9" id="Ring of Superior Speed">
@@ -5151,7 +5151,7 @@
       <ActivateOnEquip stat="22" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Speed}</DisplayId>
    </Object>
    <Object type="0xaba" id="Ring of Superior Vitality">
@@ -5167,7 +5167,7 @@
       <ActivateOnEquip stat="26" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Vitality}</DisplayId>
    </Object>
    <Object type="0xabb" id="Ring of Superior Wisdom">
@@ -5183,7 +5183,7 @@
       <ActivateOnEquip stat="27" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Wisdom}</DisplayId>
    </Object>
    <Object type="0xabc" id="Ring of Superior Dexterity">
@@ -5199,7 +5199,7 @@
       <ActivateOnEquip stat="28" amount="6">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Dexterity}</DisplayId>
    </Object>
    <Object type="0xabd" id="Ring of Superior Health">
@@ -5215,7 +5215,7 @@
       <ActivateOnEquip stat="0" amount="100">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Health}</DisplayId>
    </Object>
    <Object type="0xabe" id="Ring of Superior Magic">
@@ -5231,7 +5231,7 @@
       <ActivateOnEquip stat="3" amount="100">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.Ring_of_Superior_Magic}</DisplayId>
    </Object>
    <Object type="0xabf" id="Ring of Paramount Attack">
@@ -5247,7 +5247,7 @@
       <ActivateOnEquip stat="20" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Attack}</DisplayId>
    </Object>
    <Object type="0xac0" id="Ring of Paramount Defense">
@@ -5263,7 +5263,7 @@
       <ActivateOnEquip stat="21" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Defense}</DisplayId>
    </Object>
    <Object type="0xac1" id="Ring of Paramount Speed">
@@ -5279,7 +5279,7 @@
       <ActivateOnEquip stat="22" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Speed}</DisplayId>
    </Object>
    <Object type="0xac2" id="Ring of Paramount Vitality">
@@ -5295,7 +5295,7 @@
       <ActivateOnEquip stat="26" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Vitality}</DisplayId>
    </Object>
    <Object type="0xac3" id="Ring of Paramount Wisdom">
@@ -5311,7 +5311,7 @@
       <ActivateOnEquip stat="27" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Wisdom}</DisplayId>
    </Object>
    <Object type="0xac4" id="Ring of Paramount Dexterity">
@@ -5327,7 +5327,7 @@
       <ActivateOnEquip stat="28" amount="7">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Dexterity}</DisplayId>
    </Object>
    <Object type="0xac5" id="Ring of Paramount Health">
@@ -5343,7 +5343,7 @@
       <ActivateOnEquip stat="0" amount="120">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Health}</DisplayId>
    </Object>
    <Object type="0xac6" id="Ring of Paramount Magic">
@@ -5359,7 +5359,7 @@
       <ActivateOnEquip stat="3" amount="120">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Ring_of_Paramount_Magic}</DisplayId>
    </Object>
    <Object type="0xac7" id="Ring of Exalted Attack">
@@ -5375,7 +5375,7 @@
       <ActivateOnEquip stat="20" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Attack}</DisplayId>
    </Object>
    <Object type="0xac8" id="Ring of Exalted Defense">
@@ -5391,7 +5391,7 @@
       <ActivateOnEquip stat="21" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Defense}</DisplayId>
    </Object>
    <Object type="0xac9" id="Ring of Exalted Speed">
@@ -5407,7 +5407,7 @@
       <ActivateOnEquip stat="22" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Speed}</DisplayId>
    </Object>
    <Object type="0xaca" id="Ring of Exalted Vitality">
@@ -5423,7 +5423,7 @@
       <ActivateOnEquip stat="26" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Vitality}</DisplayId>
    </Object>
    <Object type="0xacb" id="Ring of Exalted Wisdom">
@@ -5439,7 +5439,7 @@
       <ActivateOnEquip stat="27" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Wisdom}</DisplayId>
    </Object>
    <Object type="0xacc" id="Ring of Exalted Dexterity">
@@ -5455,7 +5455,7 @@
       <ActivateOnEquip stat="28" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Dexterity}</DisplayId>
    </Object>
    <Object type="0xacd" id="Ring of Exalted Health">
@@ -5471,7 +5471,7 @@
       <ActivateOnEquip stat="0" amount="140">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Health}</DisplayId>
    </Object>
    <Object type="0xace" id="Ring of Exalted Magic">
@@ -5487,7 +5487,7 @@
       <ActivateOnEquip stat="3" amount="140">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_Exalted_Magic}</DisplayId>
    </Object>
    <Object type="0xba3" id="Ring of Unbound Attack">
@@ -5503,7 +5503,7 @@
       <ActivateOnEquip stat="20" amount="9">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Attack}</DisplayId>
    </Object>
    <Object type="0xba4" id="Ring of Unbound Defense">
@@ -5519,7 +5519,7 @@
       <ActivateOnEquip stat="21" amount="9">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Defense}</DisplayId>
    </Object>
    <Object type="0xba5" id="Ring of Unbound Speed">
@@ -5535,7 +5535,7 @@
       <ActivateOnEquip stat="22" amount="9">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Speed}</DisplayId>
    </Object>
    <Object type="0xba6" id="Ring of Unbound Vitality">
@@ -5551,7 +5551,7 @@
       <ActivateOnEquip stat="26" amount="9">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Vitality}</DisplayId>
    </Object>
    <Object type="0xba7" id="Ring of Unbound Wisdom">
@@ -5567,7 +5567,7 @@
       <ActivateOnEquip stat="27" amount="9">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Wisdom}</DisplayId>
    </Object>
    <Object type="0xba8" id="Ring of Unbound Dexterity">
@@ -5583,7 +5583,7 @@
       <ActivateOnEquip stat="28" amount="9">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Dexterity}</DisplayId>
    </Object>
    <Object type="0xba9" id="Ring of Unbound Health">
@@ -5598,7 +5598,7 @@
       <ActivateOnEquip stat="0" amount="180">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Health}</DisplayId>
    </Object>
    <Object type="0xbae" id="Ring of Decades">
@@ -5614,7 +5614,7 @@
       <ActivateOnEquip stat="0" amount="190">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>350</feedPower>
+
       <DisplayId>{equip.Ring_of_Decades}</DisplayId>
    </Object>
    <Object type="0xbaa" id="Ring of Unbound Magic">
@@ -5630,7 +5630,7 @@
       <ActivateOnEquip stat="3" amount="180">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>325</feedPower>
+
       <DisplayId>{equip.Ring_of_Unbound_Magic}</DisplayId>
    </Object>
    <Object type="0xbab" id="The Forgotten Crown">
@@ -5647,7 +5647,7 @@
       <ActivateOnEquip stat="0" amount="110">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.The_Forgotten_Crown}</DisplayId>
    </Object>
@@ -5665,7 +5665,7 @@
       <ActivateOnEquip stat="3" amount="110">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.The_Twilight_Gemstone}</DisplayId>
    </Object>
@@ -5684,7 +5684,7 @@
       <ActivateOnEquip stat="3" amount="60">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Bracer_of_the_Guardian}</DisplayId>
    </Object>
@@ -5702,7 +5702,7 @@
       <ActivateOnEquip stat="3" amount="100">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ring_of_the_Sphinx}</DisplayId>
    </Object>
@@ -5721,7 +5721,7 @@
       <ActivateOnEquip stat="3" amount="60">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ring_of_the_Nile}</DisplayId>
    </Object>
@@ -5739,7 +5739,7 @@
       <ActivateOnEquip stat="0" amount="100">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ring_of_the_Pyramid}</DisplayId>
    </Object>
@@ -5765,7 +5765,7 @@
       <BagType>1</BagType>
       <MpCost>30</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Fire_Spray_Spell}</DisplayId>
    </Object>
    <Object type="0xad4" id="Flame Burst Spell">
@@ -5790,7 +5790,7 @@
       <BagType>1</BagType>
       <MpCost>40</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Flame_Burst_Spell}</DisplayId>
    </Object>
    <Object type="0xa2f" id="Fire Nova Spell">
@@ -5815,7 +5815,7 @@
       <BagType>1</BagType>
       <MpCost>50</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Fire_Nova_Spell}</DisplayId>
    </Object>
    <Object type="0xad5" id="Scorching Blast Spell">
@@ -5841,7 +5841,7 @@
       <FameBonus>1</FameBonus>
       <MpCost>60</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Scorching_Blast_Spell}</DisplayId>
    </Object>
    <Object type="0xad6" id="Destruction Sphere Spell">
@@ -5867,7 +5867,7 @@
       <FameBonus>2</FameBonus>
       <MpCost>70</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Destruction_Sphere_Spell}</DisplayId>
    </Object>
    <Object type="0xa30" id="Magic Nova Spell">
@@ -5893,7 +5893,7 @@
       <FameBonus>3</FameBonus>
       <MpCost>80</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Magic_Nova_Spell}</DisplayId>
    </Object>
    <Object type="0xb24" id="Elemental Detonation Spell">
@@ -5921,7 +5921,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>80</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Elemental_Detonation_Spell}</DisplayId>
    </Object>
    <Object type="0x9ce" id="Penetrating Blast Spell">
@@ -5949,7 +5949,7 @@
       <FameBonus>6</FameBonus>
       <MpCost>75</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>1200</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Penetrating_Blast_Spell}</DisplayId>
    </Object>
@@ -5968,7 +5968,7 @@
       <BagType>1</BagType>
       <MpCost>50</MpCost>
       <Activate range="3" amount="70" useWisMod="true">HealNova</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Healing_Tome}</DisplayId>
    </Object>
    <Object type="0xad7" id="Remedy Tome">
@@ -5986,7 +5986,7 @@
       <BagType>1</BagType>
       <MpCost>55</MpCost>
       <Activate range="3.5" amount="90" useWisMod="true">HealNova</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Remedy_Tome}</DisplayId>
    </Object>
    <Object type="0xa32" id="Spirit Salve Tome">
@@ -6005,7 +6005,7 @@
       <MpCost>65</MpCost>
       <Activate effect="Healing" duration="3" range="4" useWisMod="true">ConditionEffectAura</Activate>
       <Activate range="4" amount="140" useWisMod="true">HealNova</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Spirit_Salve_Tome}</DisplayId>
    </Object>
    <Object type="0xad8" id="Tome of Rejuvenation">
@@ -6025,7 +6025,7 @@
       <MpCost>70</MpCost>
       <Activate effect="Healing" duration="4" range="4.5" useWisMod="true">ConditionEffectAura</Activate>
       <Activate range="4.5" amount="160" useWisMod="true">HealNova</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Tome_of_Rejuvenation}</DisplayId>
    </Object>
    <Object type="0xa33" id="Tome of Renewing">
@@ -6045,7 +6045,7 @@
       <MpCost>75</MpCost>
       <Activate effect="Healing" duration="4.5" range="4.5" useWisMod="true">ConditionEffectAura</Activate>
       <Activate range="4.5" amount="180" useWisMod="true">HealNova</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Tome_of_Renewing}</DisplayId>
    </Object>
    <Object type="0xa5b" id="Tome of Divine Favor">
@@ -6065,7 +6065,7 @@
       <MpCost>80</MpCost>
       <Activate effect="Healing" duration="5" range="5" useWisMod="true">ConditionEffectAura</Activate>
       <Activate range="5" amount="200" useWisMod="true">HealNova</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Tome_of_Divine_Favor}</DisplayId>
    </Object>
    <Object type="0xb25" id="Tome of Holy Guidance">
@@ -6086,7 +6086,7 @@
       <Activate effect="Healing" duration="6" range="5" useWisMod="true">ConditionEffectAura</Activate>
       <Activate range="5" amount="200" useWisMod="true">HealNova</Activate>
       <Activate effect="Speedy" duration="1.5" useWisMod="true">ConditionEffectSelf</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Tome_of_Holy_Guidance}</DisplayId>
    </Object>
    <Object type="0xa50" id="Pirate Rum">
@@ -6102,7 +6102,7 @@
       <Consumable/>
       <BagType>0</BagType>
       <Activate effect="Drunk" duration="30">ConditionEffectSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Pirate_Rum}</DisplayId>
    </Object>
    <Object type="0xa51" id="Magic Mushroom">
@@ -6118,7 +6118,7 @@
       <Consumable/>
       <BagType>0</BagType>
       <Activate effect="Hallucinating" duration="30">ConditionEffectSelf</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Magic_Mushroom}</DisplayId>
    </Object>
    <Object type="0xa52" id="Seal of the Initiate">
@@ -6137,7 +6137,7 @@
       <MpCost>65</MpCost>
       <Activate effect="Healing" duration="2.5" range="4.5" color="0xff0080" target="player" center="player" visualEffect="5" useWisMod="true">GenericActivate</Activate>
       <Activate effect="Damaging" duration="2.5" range="4.5" color="0xff0080" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Initiate}</DisplayId>
    </Object>
    <Object type="0xad9" id="Seal of the Pilgrim">
@@ -6156,7 +6156,7 @@
       <MpCost>65</MpCost>
       <Activate effect="Healing" duration="3" range="4.5" color="0xff0080" target="player" center="player" visualEffect="5" useWisMod="true">GenericActivate</Activate>
       <Activate effect="Damaging" duration="3" range="4.5" color="0xff0080" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Pilgrim}</DisplayId>
    </Object>
    <Object type="0xa53" id="Seal of the Seeker">
@@ -6176,7 +6176,7 @@
       <Activate stat="0" amount="10" duration="3" range="4.5" noStack="true" useWisMod="true">StatBoostAura</Activate>
       <Activate effect="Healing" duration="3" range="4.5" color="0xff0080" target="player" center="player" visualEffect="5" useWisMod="true">GenericActivate</Activate>
       <Activate effect="Damaging" duration="3" range="4.5" color="0xff0080" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Seeker}</DisplayId>
    </Object>
    <Object type="0xada" id="Seal of the Aspirant">
@@ -6197,7 +6197,7 @@
       <Activate stat="0" amount="25" duration="3.5" range="4.5" noStack="true" useWisMod="true">StatBoostAura</Activate>
       <Activate effect="Healing" duration="3.5" range="4.5" color="0xff0080" target="player" center="player" visualEffect="5" useWisMod="true">GenericActivate</Activate>
       <Activate effect="Damaging" duration="3.5" range="4.5" color="0xff0080" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Aspirant}</DisplayId>
    </Object>
    <Object type="0xa54" id="Seal of the Divine">
@@ -6218,7 +6218,7 @@
       <Activate stat="0" amount="45" duration="3.5" range="4.5" noStack="true" useWisMod="true">StatBoostAura</Activate>
       <Activate effect="Healing" duration="3.5" range="4.5" color="0xff0080" target="player" center="player" visualEffect="5" useWisMod="true">GenericActivate</Activate>
       <Activate effect="Damaging" duration="3.5" range="4.5" color="0xff0080" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Divine}</DisplayId>
    </Object>
    <Object type="0xa55" id="Seal of the Holy Warrior">
@@ -6239,7 +6239,7 @@
       <Activate stat="0" amount="55" duration="4" range="4.5" noStack="true" useWisMod="true">StatBoostAura</Activate>
       <Activate effect="Healing" duration="4" range="4.5" color="0xff0080" target="player" center="player" visualEffect="5" useWisMod="true">GenericActivate</Activate>
       <Activate effect="Damaging" duration="4" range="4.5" color="0xff0080" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Holy_Warrior}</DisplayId>
    </Object>
    <Object type="0xb26" id="Seal of the Blessed Champion">
@@ -6260,7 +6260,7 @@
       <Activate stat="0" amount="75" duration="4" range="4.5" noStack="true" useWisMod="true">StatBoostAura</Activate>
       <Activate effect="Healing" duration="4" range="4.5" color="0xff0080" target="player" center="player" visualEffect="5" useWisMod="true">GenericActivate</Activate>
       <Activate effect="Damaging" duration="4" range="4.5" color="0xff0080" target="player" center="player" visualEffect="0" useWisMod="true">GenericActivate</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Blessed_Champion}</DisplayId>
    </Object>
    <Object type="0xc06" id="Seal of Blasphemous Prayer">
@@ -6283,7 +6283,7 @@
       <Activate effect="Damaging" duration="5" range="5" useWisMod="true">ConditionEffectAura</Activate>
       <Activate effect="Invulnerable" duration="1.2" useWisMod="true">ConditionEffectSelf</Activate>
       <Cooldown>5</Cooldown>
-      <feedPower>750</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Seal_of_Blasphemous_Prayer}</DisplayId>
    </Object>
@@ -6303,7 +6303,7 @@
       <MpCost>60</MpCost>
       <Activate effect="Invisible" duration="3">ConditionEffectSelf</Activate>
       <Cooldown>4</Cooldown>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Cloak_of_Shadows}</DisplayId>
    </Object>
    <Object type="0xa57" id="Cloak of Darkness">
@@ -6322,7 +6322,7 @@
       <MpCost>65</MpCost>
       <Activate effect="Invisible" duration="3.5">ConditionEffectSelf</Activate>
       <Cooldown>4.5</Cooldown>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Cloak_of_Darkness}</DisplayId>
    </Object>
    <Object type="0xa58" id="Cloak of Speed">
@@ -6342,7 +6342,7 @@
       <MpCost>70</MpCost>
       <Activate effect="Invisible" duration="4">ConditionEffectSelf</Activate>
       <Cooldown>5</Cooldown>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Cloak_of_Speed}</DisplayId>
    </Object>
    <Object type="0xadb" id="Cloak of the Night Thief">
@@ -6363,7 +6363,7 @@
       <MpCost>75</MpCost>
       <Activate effect="Invisible" duration="4.5">ConditionEffectSelf</Activate>
       <Cooldown>5.5</Cooldown>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Cloak_of_the_Night_Thief}</DisplayId>
    </Object>
    <Object type="0xa59" id="Cloak of the Red Agent">
@@ -6385,7 +6385,7 @@
       <MpCost>80</MpCost>
       <Activate effect="Invisible" duration="5">ConditionEffectSelf</Activate>
       <Cooldown>6</Cooldown>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Cloak_of_the_Red_Agent}</DisplayId>
    </Object>
    <Object type="0xae1" id="Cloak of Endless Twilight">
@@ -6407,7 +6407,7 @@
       <MpCost>85</MpCost>
       <Activate effect="Invisible" duration="5.5">ConditionEffectSelf</Activate>
       <Cooldown>6.5</Cooldown>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Cloak_of_Endless_Twilight}</DisplayId>
    </Object>
    <Object type="0xb27" id="Cloak of Ghostly Concealment">
@@ -6431,7 +6431,7 @@
       <MpCost>85</MpCost>
       <Activate effect="Invisible" duration="5.5">ConditionEffectSelf</Activate>
       <Cooldown>6.5</Cooldown>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Cloak_of_Ghostly_Concealment}</DisplayId>
    </Object>
    <Object type="0xa5a" id="Cloak of the Planewalker">
@@ -6453,7 +6453,7 @@
       <Activate effect="Invisible" duration="5.5">ConditionEffectSelf</Activate>
       <Activate maxDistance="20">Teleport</Activate>
       <Cooldown>6.5</Cooldown>
-      <feedPower>750</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Cloak_of_the_Planewalker}</DisplayId>
    </Object>
@@ -6469,7 +6469,7 @@
       <Description>{equip.A_long_woolen_robe_favored_by_students_of_magic.}</Description>
       <ActivateOnEquip stat="21" amount="2">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Neophyte}</DisplayId>
    </Object>
    <Object type="0xa7e" id="Robe of the Apprentice">
@@ -6485,7 +6485,7 @@
       <ActivateOnEquip stat="21" amount="3">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="27" amount="1">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>9</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Apprentice}</DisplayId>
    </Object>
    <Object type="0xa5d" id="Robe of the Acolyte">
@@ -6502,7 +6502,7 @@
       <ActivateOnEquip stat="27" amount="1">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="3" amount="10">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>14</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Acolyte}</DisplayId>
    </Object>
    <Object type="0xa7f" id="Robe of the Student">
@@ -6519,7 +6519,7 @@
       <ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="3" amount="15">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Student}</DisplayId>
    </Object>
    <Object type="0xa80" id="Robe of the Conjurer">
@@ -6536,7 +6536,7 @@
       <ActivateOnEquip stat="27" amount="2">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="3" amount="20">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>27</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Conjurer}</DisplayId>
    </Object>
    <Object type="0xa5e" id="Robe of the Adept">
@@ -6553,7 +6553,7 @@
       <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="3" amount="25">IncrementStat</ActivateOnEquip>
       <BagType>1</BagType>
-      <feedPower>39</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Adept}</DisplayId>
    </Object>
    <Object type="0xa5f" id="Robe of the Invoker">
@@ -6570,7 +6570,7 @@
       <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="3" amount="30">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
-      <feedPower>55</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Invoker}</DisplayId>
    </Object>
    <Object type="0xadc" id="Robe of the Illusionist">
@@ -6589,7 +6589,7 @@
       <ActivateOnEquip stat="3" amount="35">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>77</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Illusionist}</DisplayId>
    </Object>
    <Object type="0xa60" id="Robe of the Master">
@@ -6608,7 +6608,7 @@
       <ActivateOnEquip stat="3" amount="40">IncrementStat</ActivateOnEquip>
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
-      <feedPower>110</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Master}</DisplayId>
    </Object>
    <Object type="0xa94" id="Robe of the Shadow Magus">
@@ -6627,7 +6627,7 @@
       <ActivateOnEquip stat="3" amount="45">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>155</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Shadow_Magus}</DisplayId>
    </Object>
    <Object type="0xa95" id="Robe of the Moon Wizard">
@@ -6646,7 +6646,7 @@
       <ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>218</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Moon_Wizard}</DisplayId>
    </Object>
    <Object type="0xa96" id="Robe of the Elder Warlock">
@@ -6665,7 +6665,7 @@
       <ActivateOnEquip stat="3" amount="50">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>308</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Elder_Warlock}</DisplayId>
    </Object>
    <Object type="0xb05" id="Robe of the Grand Sorcerer">
@@ -6684,7 +6684,7 @@
       <ActivateOnEquip stat="3" amount="55">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>435</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Grand_Sorcerer}</DisplayId>
    </Object>
    <Object type="0x9cf" id="Robe of the Star Mother">
@@ -6702,7 +6702,7 @@
       <ActivateOnEquip stat="3" amount="60">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Robe_of_the_Star_Mother}</DisplayId>
    </Object>
@@ -6721,7 +6721,7 @@
       <ActivateOnEquip stat="3" amount="65">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>6</FameBonus>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Robe_of_the_Ancient_Intellect}</DisplayId>
    </Object>
@@ -6753,7 +6753,7 @@
       <BagType>1</BagType>
       <MpCost>50</MpCost>
       <Activate>Shoot</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Magic_Quiver}</DisplayId>
    </Object>
    <Object type="0xa62" id="Reinforced Quiver">
@@ -6785,7 +6785,7 @@
       <BagType>1</BagType>
       <MpCost>55</MpCost>
       <Activate>Shoot</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Reinforced_Quiver}</DisplayId>
    </Object>
    <Object type="0xa63" id="Iron Quiver">
@@ -6817,7 +6817,7 @@
       <BagType>1</BagType>
       <MpCost>60</MpCost>
       <Activate>Shoot</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Iron_Quiver}</DisplayId>
    </Object>
    <Object type="0xade" id="Elvencraft Quiver">
@@ -6850,7 +6850,7 @@
       <FameBonus>1</FameBonus>
       <MpCost>65</MpCost>
       <Activate>Shoot</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Elvencraft_Quiver}</DisplayId>
    </Object>
    <Object type="0xa64" id="Magesteel Quiver">
@@ -6883,7 +6883,7 @@
       <FameBonus>2</FameBonus>
       <MpCost>70</MpCost>
       <Activate>Shoot</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Magesteel_Quiver}</DisplayId>
    </Object>
    <Object type="0xa65" id="Golden Quiver">
@@ -6916,7 +6916,7 @@
       <FameBonus>3</FameBonus>
       <MpCost>75</MpCost>
       <Activate>Shoot</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Golden_Quiver}</DisplayId>
    </Object>
    <Object type="0xb28" id="Quiver of Elvish Mastery">
@@ -6951,7 +6951,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>75</MpCost>
       <Activate>Shoot</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Quiver_of_Elvish_Mastery}</DisplayId>
    </Object>
    <Object type="0xc07" id="Quiver of Thunder">
@@ -6982,7 +6982,7 @@
       <MpCost>100</MpCost>
       <Activate>Shoot</Activate>
       <Cooldown>6</Cooldown>
-      <feedPower>800</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Quiver_of_Thunder}</DisplayId>
    </Object>
@@ -7003,7 +7003,7 @@
       <Activate effect="Berserk" duration="3" range="4">ConditionEffectAura</Activate>
       <Activate effect="Speedy" duration="3">ConditionEffectSelf</Activate>
       <Cooldown>4</Cooldown>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Combat_Helm}</DisplayId>
    </Object>
    <Object type="0xa67" id="Bronze Helm">
@@ -7023,7 +7023,7 @@
       <Activate effect="Berserk" duration="4" range="4">ConditionEffectAura</Activate>
       <Activate effect="Speedy" duration="4">ConditionEffectSelf</Activate>
       <Cooldown>5</Cooldown>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Bronze_Helm}</DisplayId>
    </Object>
    <Object type="0xa68" id="Black Iron Helm">
@@ -7043,7 +7043,7 @@
       <Activate effect="Berserk" duration="4.5" range="4">ConditionEffectAura</Activate>
       <Activate effect="Speedy" duration="4.5">ConditionEffectSelf</Activate>
       <Cooldown>5.5</Cooldown>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Black_Iron_Helm}</DisplayId>
    </Object>
    <Object type="0xa69" id="Red Iron Helm">
@@ -7064,7 +7064,7 @@
       <Activate effect="Berserk" duration="5" range="4">ConditionEffectAura</Activate>
       <Activate effect="Speedy" duration="5">ConditionEffectSelf</Activate>
       <Cooldown>6</Cooldown>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Red_Iron_Helm}</DisplayId>
    </Object>
    <Object type="0xa6a" id="Steel Helm">
@@ -7085,7 +7085,7 @@
       <Activate effect="Berserk" duration="5.5" range="4">ConditionEffectAura</Activate>
       <Activate effect="Speedy" duration="5.5">ConditionEffectSelf</Activate>
       <Cooldown>6.5</Cooldown>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Steel_Helm}</DisplayId>
    </Object>
    <Object type="0xa6b" id="Golden Helm">
@@ -7106,7 +7106,7 @@
       <Activate effect="Berserk" duration="6" range="4">ConditionEffectAura</Activate>
       <Activate effect="Speedy" duration="6">ConditionEffectSelf</Activate>
       <Cooldown>7</Cooldown>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Golden_Helm}</DisplayId>
    </Object>
    <Object type="0xb29" id="Helm of the Great General">
@@ -7129,7 +7129,7 @@
       <Activate effect="Berserk" duration="6" range="4">ConditionEffectAura</Activate>
       <Activate effect="Speedy" duration="6">ConditionEffectSelf</Activate>
       <Cooldown>7</Cooldown>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Helm_of_the_Great_General}</DisplayId>
    </Object>
    <Object type="0xc08" id="Helm of the Juggernaut">
@@ -7150,7 +7150,7 @@
       <Activate effect="Berserk" duration="4.5" range="4">ConditionEffectAura</Activate>
       <Activate effect="Armored" duration="4.5">ConditionEffectSelf</Activate>
       <Cooldown>6</Cooldown>
-      <feedPower>1250</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Helm_of_the_Juggernaut}</DisplayId>
    </Object>
@@ -7179,7 +7179,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Energy_Staff}</DisplayId>
    </Object>
    <Object type="0xa98" id="Firebrand Staff">
@@ -7207,7 +7207,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Firebrand_Staff}</DisplayId>
    </Object>
    <Object type="0xa99" id="Comet Staff">
@@ -7235,7 +7235,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Comet_Staff}</DisplayId>
    </Object>
    <Object type="0xa9a" id="Serpentine Staff">
@@ -7263,7 +7263,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Serpentine_Staff}</DisplayId>
    </Object>
    <Object type="0xa9b" id="Meteor Staff">
@@ -7291,7 +7291,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>22</feedPower>
+
       <DisplayId>{equip.Meteor_Staff}</DisplayId>
    </Object>
    <Object type="0xa9c" id="Slayer Staff">
@@ -7319,7 +7319,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>32</feedPower>
+
       <DisplayId>{equip.Slayer_Staff}</DisplayId>
    </Object>
    <Object type="0xa9d" id="Avenger Staff">
@@ -7347,7 +7347,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>47</feedPower>
+
       <DisplayId>{equip.Avenger_Staff}</DisplayId>
    </Object>
    <Object type="0xa9e" id="Staff of Destruction">
@@ -7375,7 +7375,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>70</feedPower>
+
       <DisplayId>{equip.Staff_of_Destruction}</DisplayId>
    </Object>
    <Object type="0xa9f" id="Staff of Horror">
@@ -7404,7 +7404,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>100</feedPower>
+
       <DisplayId>{equip.Staff_of_Horror}</DisplayId>
    </Object>
    <Object type="0xaa0" id="Staff of Necrotic Arcana">
@@ -7433,7 +7433,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Staff_of_Necrotic_Arcana}</DisplayId>
    </Object>
    <Object type="0xaa1" id="Staff of Diabolic Secrets">
@@ -7462,7 +7462,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>212</feedPower>
+
       <DisplayId>{equip.Staff_of_Diabolic_Secrets}</DisplayId>
    </Object>
    <Object type="0xaa2" id="Staff of Astral Knowledge">
@@ -7491,7 +7491,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Staff_of_Astral_Knowledge}</DisplayId>
    </Object>
    <Object type="0xb08" id="Staff of the Cosmic Whole">
@@ -7520,7 +7520,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Staff_of_the_Cosmic_Whole}</DisplayId>
    </Object>
    <Object type="0x9d1" id="Staff of the Vital Unity">
@@ -7548,7 +7548,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Staff_of_the_Vital_Unity}</DisplayId>
    </Object>
@@ -7577,7 +7577,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Staff_of_the_Fundamental_Core}</DisplayId>
    </Object>
@@ -7606,7 +7606,7 @@
       <NumProjectiles>10</NumProjectiles>
       <ArcGap>36</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>600</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Staff_of_Extreme_Prejudice}</DisplayId>
    </Object>
@@ -7624,7 +7624,7 @@
       <BagType>1</BagType>
       <MpCost>30</MpCost>
       <Activate radius="2.5" totalDamage="150" duration="5">PoisonGrenade</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Centipede_Poison}</DisplayId>
    </Object>
    <Object type="0xaa4" id="Spider Venom">
@@ -7641,7 +7641,7 @@
       <BagType>1</BagType>
       <MpCost>45</MpCost>
       <Activate radius="3" totalDamage="250" duration="5.5">PoisonGrenade</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Spider_Venom}</DisplayId>
    </Object>
    <Object type="0xaa5" id="Pit Viper Poison">
@@ -7658,7 +7658,7 @@
       <BagType>1</BagType>
       <MpCost>65</MpCost>
       <Activate radius="3.5" totalDamage="400" duration="6">PoisonGrenade</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Pit_Viper_Poison}</DisplayId>
    </Object>
    <Object type="0xaa6" id="Stingray Poison">
@@ -7676,7 +7676,7 @@
       <FameBonus>1</FameBonus>
       <MpCost>80</MpCost>
       <Activate radius="4" totalDamage="550" duration="6.5">PoisonGrenade</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Stingray_Poison}</DisplayId>
    </Object>
    <Object type="0xaa7" id="Felwasp Toxin">
@@ -7694,7 +7694,7 @@
       <FameBonus>2</FameBonus>
       <MpCost>95</MpCost>
       <Activate radius="4.5" totalDamage="700" duration="7">PoisonGrenade</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Felwasp_Toxin}</DisplayId>
    </Object>
    <Object type="0xaa8" id="Nightwing Venom">
@@ -7712,7 +7712,7 @@
       <FameBonus>3</FameBonus>
       <MpCost>110</MpCost>
       <Activate radius="5" totalDamage="900" duration="7.5">PoisonGrenade</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Nightwing_Venom}</DisplayId>
    </Object>
    <Object type="0xb2a" id="Baneserpent Poison">
@@ -7732,7 +7732,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>110</MpCost>
       <Activate radius="5" totalDamage="900" duration="7.5">PoisonGrenade</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Baneserpent_Poison}</DisplayId>
    </Object>
    <Object type="0xaaa" id="Necrotic Skull">
@@ -7749,7 +7749,7 @@
       <BagType>1</BagType>
       <MpCost>40</MpCost>
       <Activate radius="2.5" totalDamage="25">VampireBlast</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Necrotic_Skull}</DisplayId>
    </Object>
    <Object type="0xaab" id="Breathtaker Skull">
@@ -7766,7 +7766,7 @@
       <BagType>1</BagType>
       <MpCost>60</MpCost>
       <Activate radius="2.75" totalDamage="45">VampireBlast</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Breathtaker_Skull}</DisplayId>
    </Object>
    <Object type="0xaac" id="Heartstealer Skull">
@@ -7783,7 +7783,7 @@
       <BagType>1</BagType>
       <MpCost>80</MpCost>
       <Activate radius="3" totalDamage="70">VampireBlast</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Heartstealer_Skull}</DisplayId>
    </Object>
    <Object type="0xaad" id="Soul Siphon Skull">
@@ -7801,7 +7801,7 @@
       <FameBonus>1</FameBonus>
       <MpCost>100</MpCost>
       <Activate radius="3.25" totalDamage="100">VampireBlast</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Soul_Siphon_Skull}</DisplayId>
    </Object>
    <Object type="0xaae" id="Essence Tap Skull">
@@ -7819,7 +7819,7 @@
       <FameBonus>2</FameBonus>
       <MpCost>120</MpCost>
       <Activate radius="3.5" totalDamage="125">VampireBlast</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Essence_Tap_Skull}</DisplayId>
    </Object>
    <Object type="0xaaf" id="Lifedrinker Skull">
@@ -7837,7 +7837,7 @@
       <FameBonus>3</FameBonus>
       <MpCost>140</MpCost>
       <Activate radius="3.75" totalDamage="150">VampireBlast</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Lifedrinker_Skull}</DisplayId>
    </Object>
    <Object type="0xb2b" id="Bloodsucker Skull">
@@ -7857,7 +7857,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>140</MpCost>
       <Activate radius="3.75" totalDamage="150">VampireBlast</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Bloodsucker_Skull}</DisplayId>
    </Object>
    <Object type="0x911" id="Skull of Endless Torment">
@@ -7876,7 +7876,7 @@
       <FameBonus>6</FameBonus>
       <MpCost>135</MpCost>
       <Activate radius="2" totalDamage="200">VampireBlast</Activate>
-      <feedPower>250</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Skull_of_Endless_Torment}</DisplayId>
    </Object>
@@ -7894,7 +7894,7 @@
       <BagType>1</BagType>
       <MpCost>40</MpCost>
       <Activate radius="4" totalDamage="50" condDuration="3.0">Trap</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Hunting_Trap}</DisplayId>
    </Object>
    <Object type="0xab2" id="Wilderlands Trap">
@@ -7911,7 +7911,7 @@
       <BagType>1</BagType>
       <MpCost>60</MpCost>
       <Activate radius="4.5" totalDamage="90" condDuration="3.5">Trap</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Wilderlands_Trap}</DisplayId>
    </Object>
    <Object type="0xab3" id="Deepforest Trap">
@@ -7928,7 +7928,7 @@
       <BagType>1</BagType>
       <MpCost>80</MpCost>
       <Activate radius="5" totalDamage="140" condDuration="4.0">Trap</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Deepforest_Trap}</DisplayId>
    </Object>
    <Object type="0xab4" id="Savage Trap">
@@ -7946,7 +7946,7 @@
       <FameBonus>1</FameBonus>
       <MpCost>100</MpCost>
       <Activate radius="5.5" totalDamage="200" condDuration="4.5">Trap</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Savage_Trap}</DisplayId>
    </Object>
    <Object type="0xab5" id="Demonhunter Trap">
@@ -7964,7 +7964,7 @@
       <FameBonus>2</FameBonus>
       <MpCost>120</MpCost>
       <Activate radius="6" totalDamage="250" condDuration="5">Trap</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Demonhunter_Trap}</DisplayId>
    </Object>
    <Object type="0xab6" id="Dragonstalker Trap">
@@ -7982,7 +7982,7 @@
       <FameBonus>3</FameBonus>
       <MpCost>140</MpCost>
       <Activate radius="6.5" totalDamage="300" condDuration="5.5">Trap</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Dragonstalker_Trap}</DisplayId>
    </Object>
    <Object type="0xb2c" id="Giantcatcher Trap">
@@ -8002,7 +8002,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>140</MpCost>
       <Activate radius="6.5" totalDamage="300" condDuration="6">Trap</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Giantcatcher_Trap}</DisplayId>
    </Object>
    <Object type="0xae4" id="Stasis Orb">
@@ -8019,7 +8019,7 @@
       <BagType>1</BagType>
       <MpCost>65</MpCost>
       <Activate duration="3">StasisBlast</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Stasis_Orb}</DisplayId>
    </Object>
    <Object type="0xa42" id="Suspension Orb">
@@ -8038,7 +8038,7 @@
       <MpCost>65</MpCost>
       <Activate effect="Curse" duration="4.5" range="5" color="0x808080" target="enemy" center="mouse" visualEffect="8" useWisMod="true">GenericActivate</Activate>
       <Activate duration="3.5">StasisBlast</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Suspension_Orb}</DisplayId>
    </Object>
    <Object type="0xa43" id="Imprisonment Orb">
@@ -8056,7 +8056,7 @@
       <MpCost>70</MpCost>
       <Activate effect="Curse" duration="5" range="5" color="0x808080" target="enemy" center="mouse" visualEffect="8" useWisMod="true">GenericActivate</Activate>
       <Activate duration="4">StasisBlast</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Imprisonment_Orb}</DisplayId>
    </Object>
    <Object type="0xa44" id="Neutralization Orb">
@@ -8075,7 +8075,7 @@
       <MpCost>75</MpCost>
       <Activate effect="Curse" duration="5.5" range="5" color="0x808080" target="enemy" center="mouse" visualEffect="8" useWisMod="true">GenericActivate</Activate>
       <Activate duration="4.5">StasisBlast</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Neutralization_Orb}</DisplayId>
    </Object>
    <Object type="0xa45" id="Timelock Orb">
@@ -8094,7 +8094,7 @@
       <MpCost>80</MpCost>
       <Activate effect="Curse" duration="6" range="5" color="0x808080" target="enemy" center="mouse" visualEffect="8" useWisMod="true">GenericActivate</Activate>
       <Activate duration="5">StasisBlast</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Timelock_Orb}</DisplayId>
    </Object>
    <Object type="0xa46" id="Banishment Orb">
@@ -8114,7 +8114,7 @@
       <Activate effect="Berserk" duration="1.5" useWisMod="true">ConditionEffectSelf</Activate>
       <Activate effect="Curse" duration="6.5" range="5" color="0x808080" target="enemy" center="mouse" visualEffect="8" useWisMod="true">GenericActivate</Activate>
       <Activate duration="5.5">StasisBlast</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Banishment_Orb}</DisplayId>
    </Object>
    <Object type="0xb2d" id="Planefetter Orb">
@@ -8134,7 +8134,7 @@
       <Activate effect="Berserk" duration="2" useWisMod="true">ConditionEffectSelf</Activate>
       <Activate effect="Curse" duration="7" range="5" color="0x808080" target="enemy" center="mouse" visualEffect="8" useWisMod="true">GenericActivate</Activate>
       <Activate duration="6">StasisBlast</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Planefetter_Orb}</DisplayId>
    </Object>
    <Object type="0xc0b" id="Orb of Conflict">
@@ -8156,7 +8156,7 @@
       <Activate effect="Speedy" duration="2" useWisMod="true">ConditionEffectSelf</Activate>
       <Activate effect="Damaging" duration="2" useWisMod="true">ConditionEffectSelf</Activate>
       <Cooldown>5</Cooldown>
-      <feedPower>750</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Orb_of_Conflict}</DisplayId>
    </Object>
@@ -8174,7 +8174,7 @@
       <BagType>0</BagType>
       <Activate objectId="Purple Drake">Pet</Activate>
       <OldSound>use_potion</OldSound>
-      <feedPower>35</feedPower>
+
       <DisplayId>{equip.Purple_Drake_Egg}</DisplayId>
    </Object>
    <Object type="0xaef" id="White Drake Egg">
@@ -8191,7 +8191,7 @@
       <BagType>0</BagType>
       <Activate objectId="White Drake">Pet</Activate>
       <OldSound>use_potion</OldSound>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.White_Drake_Egg}</DisplayId>
    </Object>
    <Object type="0xaf0" id="Blue Drake Egg">
@@ -8208,7 +8208,7 @@
       <BagType>0</BagType>
       <Activate objectId="Blue Drake">Pet</Activate>
       <OldSound>use_potion</OldSound>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Blue_Drake_Egg}</DisplayId>
    </Object>
    <Object type="0xaf1" id="Orange Drake Egg">
@@ -8225,7 +8225,7 @@
       <BagType>0</BagType>
       <Activate objectId="Orange Drake">Pet</Activate>
       <OldSound>use_potion</OldSound>
-      <feedPower>35</feedPower>
+
       <DisplayId>{equip.Orange_Drake_Egg}</DisplayId>
    </Object>
    <Object type="0xaf2" id="Green Drake Egg">
@@ -8242,7 +8242,7 @@
       <BagType>0</BagType>
       <Activate objectId="Green Drake">Pet</Activate>
       <OldSound>use_potion</OldSound>
-      <feedPower>35</feedPower>
+
       <DisplayId>{equip.Green_Drake_Egg}</DisplayId>
    </Object>
    <Object type="0xaf3" id="Yellow Drake Egg">
@@ -8260,7 +8260,7 @@
       <BagType>0</BagType>
       <Activate objectId="Yellow Drake">Pet</Activate>
       <OldSound>use_potion</OldSound>
-      <feedPower>35</feedPower>
+
       <DisplayId>{equip.Yellow_Drake_Egg}</DisplayId>
    </Object>
    <Object type="0xae3" id="Decoy Prism">
@@ -8278,7 +8278,7 @@
       <MpCost>60</MpCost>
       <Activate duration="3">Decoy</Activate>
       <Activate maxDistance="20">Teleport</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Decoy_Prism}</DisplayId>
    </Object>
    <Object type="0xb1c" id="Deception Prism">
@@ -8296,7 +8296,7 @@
       <MpCost>65</MpCost>
       <Activate duration="3.5">Decoy</Activate>
       <Activate maxDistance="20">Teleport</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Deception_Prism}</DisplayId>
    </Object>
    <Object type="0xb1d" id="Illusion Prism">
@@ -8314,7 +8314,7 @@
       <MpCost>70</MpCost>
       <Activate duration="4">Decoy</Activate>
       <Activate maxDistance="20">Teleport</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Illusion_Prism}</DisplayId>
    </Object>
    <Object type="0xb1e" id="Hallucination Prism">
@@ -8333,7 +8333,7 @@
       <MpCost>75</MpCost>
       <Activate duration="4.5">Decoy</Activate>
       <Activate maxDistance="20">Teleport</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Hallucination_Prism}</DisplayId>
    </Object>
    <Object type="0xb1f" id="Prism of Figments">
@@ -8352,7 +8352,7 @@
       <MpCost>80</MpCost>
       <Activate duration="5">Decoy</Activate>
       <Activate maxDistance="20">Teleport</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Prism_of_Figments}</DisplayId>
    </Object>
    <Object type="0xb20" id="Prism of Phantoms">
@@ -8371,7 +8371,7 @@
       <MpCost>85</MpCost>
       <Activate duration="5.5">Decoy</Activate>
       <Activate maxDistance="20">Teleport</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Prism_of_Phantoms}</DisplayId>
    </Object>
    <Object type="0xb23" id="Prism of Apparitions">
@@ -8392,7 +8392,7 @@
       <MpCost>85</MpCost>
       <Activate duration="5.5">Decoy</Activate>
       <Activate maxDistance="20">Teleport</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Prism_of_Apparitions}</DisplayId>
    </Object>
    <Object type="0x912" id="Prism of Dancing Swords">
@@ -8413,7 +8413,7 @@
       <MpCost>95</MpCost>
       <Activate duration="5">Decoy</Activate>
       <Activate duration="5" angleOffset="180">Decoy</Activate>
-      <feedPower>400</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Prism_of_Dancing_Swords}</DisplayId>
    </Object>
@@ -8439,7 +8439,7 @@
       <BagType>6</BagType>
       <OldSound>daggerSwing</OldSound>
       <FameBonus>4</FameBonus>
-      <feedPower>650</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Chicken_Leg_of_Doom}</DisplayId>
    </Object>
@@ -8458,7 +8458,7 @@
       <BagType>1</BagType>
       <MpCost>60</MpCost>
       <Activate totalDamage="50" maxTargets="3">Lightning</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Lightning_Scepter}</DisplayId>
    </Object>
    <Object type="0xb2e" id="Discharge Scepter">
@@ -8476,7 +8476,7 @@
       <BagType>1</BagType>
       <MpCost>65</MpCost>
       <Activate totalDamage="80" maxTargets="4">Lightning</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Discharge_Scepter}</DisplayId>
    </Object>
    <Object type="0xb2f" id="Thunderclap Scepter">
@@ -8494,7 +8494,7 @@
       <BagType>1</BagType>
       <MpCost>70</MpCost>
       <Activate totalDamage="110" maxTargets="5">Lightning</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Thunderclap_Scepter}</DisplayId>
    </Object>
    <Object type="0xb30" id="Arcblast Scepter">
@@ -8513,7 +8513,7 @@
       <FameBonus>1</FameBonus>
       <MpCost>75</MpCost>
       <Activate totalDamage="140" maxTargets="6">Lightning</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Arcblast_Scepter}</DisplayId>
    </Object>
    <Object type="0xb31" id="Cloudflash Scepter">
@@ -8532,7 +8532,7 @@
       <FameBonus>2</FameBonus>
       <MpCost>80</MpCost>
       <Activate totalDamage="170" maxTargets="7">Lightning</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Cloudflash_Scepter}</DisplayId>
    </Object>
    <Object type="0xb32" id="Scepter of Skybolts">
@@ -8551,7 +8551,7 @@
       <FameBonus>3</FameBonus>
       <MpCost>85</MpCost>
       <Activate totalDamage="200" maxTargets="8">Lightning</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Scepter_of_Skybolts}</DisplayId>
    </Object>
    <Object type="0xb33" id="Scepter of Storms">
@@ -8572,7 +8572,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>85</MpCost>
       <Activate totalDamage="200" maxTargets="8">Lightning</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Scepter_of_Storms}</DisplayId>
    </Object>
    <Object type="0xb3e" id="Amulet of Resurrection">
@@ -8596,7 +8596,7 @@
       <ActivateOnEquip stat="0" amount="20">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="3" amount="20">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
-      <feedPower>500</feedPower>
+
    </Object>
    <Object type="0x9d4" id="Admin Sword">
       <Class>Equipment</Class>
@@ -8618,7 +8618,7 @@
          <LifetimeMS>600</LifetimeMS>
       </Projectile>
       <BagType>6</BagType>
-      <feedPower>100000</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Admin_Sword}</DisplayId>
    </Object>
@@ -8635,7 +8635,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Undead Lair Portal">Create</Activate>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Undead_Lair_Key}</DisplayId>
    </Object>
    <Object type="0x705" id="Pirate Cave Key">
@@ -8651,7 +8651,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Pirate Cave Portal">Create</Activate>
-      <feedPower>40</feedPower>
+
       <DisplayId>{equip.Pirate_Cave_Key}</DisplayId>
    </Object>
    <Object type="0x706" id="Spider Den Key">
@@ -8667,7 +8667,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Spider Den Portal">Create</Activate>
-      <feedPower>130</feedPower>
+
       <DisplayId>{equip.Spider_Den_Key}</DisplayId>
    </Object>
    <Object type="0x70a" id="Abyss of Demons Key">
@@ -8683,7 +8683,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Abyss of Demons Portal">Create</Activate>
-      <feedPower>260</feedPower>
+
       <Track/>
       <DisplayId>{equip.Abyss_of_Demons_Key}</DisplayId>
    </Object>
@@ -8700,7 +8700,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Snake Pit Portal">Create</Activate>
-      <feedPower>165</feedPower>
+
       <DisplayId>{equip.Snake_Pit_Key}</DisplayId>
    </Object>
    <Object type="0x710" id="Tomb of the Ancients Key">
@@ -8716,7 +8716,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Tomb of the Ancients Portal">Create</Activate>
-      <feedPower>350</feedPower>
+
       <DisplayId>{equip.Tomb_of_the_Ancients_Key}</DisplayId>
    </Object>
    <Object type="0x769" id="Tomb of the Ancients (Heroic) Key">
@@ -8732,7 +8732,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Tomb of the Ancients Portal (Heroic)">Create</Activate>
-      <feedPower>350</feedPower>
+
       <DisplayId>{equip.Tomb_of_the_Ancients_(Heroic)_Key}</DisplayId>
    </Object>
    <Object type="0x71f" id="Sprite World Key">
@@ -8748,7 +8748,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Glowing Portal">Create</Activate>
-      <feedPower>135</feedPower>
+
       <DisplayId>{equip.Sprite_World_Key}</DisplayId>
    </Object>
    <Object type="0x722" id="Wine Cellar Incantation">
@@ -8764,7 +8764,7 @@
       <Consumable/>
       <BagType>4</BagType>
       <Activate dungeonName="Wine Cellar" lockedName="Locked Wine Cellar Portal">UnlockPortal</Activate>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Wine_Cellar_Incantation}</DisplayId>
    </Object>
    <Object type="0xc11" id="Ocean Trench Key">
@@ -8780,7 +8780,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Ocean Trench Portal">Create</Activate>
-      <feedPower>225</feedPower>
+
       <Track/>
       <DisplayId>{equip.Ocean_Trench_Key}</DisplayId>
    </Object>
@@ -8814,7 +8814,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>80</feedPower>
+
       <DisplayId>{equip.Coral_Juice}</DisplayId>
    </Object>
    <Object type="0xc13" id="Coral Ring">
@@ -8831,7 +8831,7 @@
       <ActivateOnEquip stat="3" amount="75">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>650</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Coral_Ring}</DisplayId>
    </Object>
@@ -8848,7 +8848,7 @@
       <ActivateOnEquip stat="3" amount="45">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>250</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Robe_of_the_Tlatoani}</DisplayId>
    </Object>
@@ -8877,7 +8877,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>320</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Staff_of_the_Crystal_Serpent}</DisplayId>
    </Object>
@@ -8895,7 +8895,7 @@
       <FameBonus>2</FameBonus>
       <MpCost>120</MpCost>
       <Activate radius="4.25" totalDamage="80">VampireBlast</Activate>
-      <feedPower>270</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Cracked_Crystal_Skull}</DisplayId>
    </Object>
@@ -8911,7 +8911,7 @@
       <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="27" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
-      <feedPower>220</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Crystal_Bone_Ring}</DisplayId>
    </Object>
@@ -8929,7 +8929,7 @@
       <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>800</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Coral_Silk_Armor}</DisplayId>
    </Object>
@@ -8946,7 +8946,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Forbidden Jungle Portal">Create</Activate>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Totem_Key}</DisplayId>
    </Object>
    <Object type="0x748C" id="Ice Cave Key">
@@ -8962,7 +8962,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Ice Cave Portal">Create</Activate>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Ice_Cave_Key}</DisplayId>
    </Object>
    <Object type="0xc1a" id="Pollen Powder">
@@ -8979,7 +8979,7 @@
       <Potion/>
       <BagType>0</BagType>
       <Activate range="10" amount="100">MagicNova</Activate>
-      <feedPower>40</feedPower>
+
       <DisplayId>{equip.Pollen_Powder}</DisplayId>
    </Object>
    <Object type="0x9d5" id="Thousand Shot">
@@ -9006,7 +9006,7 @@
       <FameBonus>6</FameBonus>
       <NumProjectiles>1</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>0</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Thousand_Shot}</DisplayId>
    </Object>
@@ -9026,7 +9026,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>130</MpCost>
       <Activate radius="4" totalDamage="350" condEffect="Paralyzed" condDuration="3.5">Trap</Activate>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Coral_Venom_Trap}</DisplayId>
    </Object>
@@ -9053,7 +9053,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>700</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.St._AbrahamAPOSs_Wand}</DisplayId>
    </Object>
@@ -9075,7 +9075,7 @@
       <MpCost>120</MpCost>
       <Activate amount="200" range="6" useWisMod="true">HealNova</Activate>
       <Activate effect="Armored" duration="4" useWisMod="true">ConditionEffectSelf</Activate>
-      <feedPower>1300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Tome_of_Holy_Protection}</DisplayId>
    </Object>
@@ -9098,7 +9098,7 @@
       <Activate amount="200" range="6" useWisMod="true">HealNova</Activate>
       <Activate range="6" effect="Speedy" checkExistingEffect="Hexed">ClearConditionEffectAura</Activate>
       <Activate range="6">RemoveNegativeConditions</Activate>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Tome_of_Purification}</DisplayId>
    </Object>
@@ -9117,7 +9117,7 @@
       <ActivateOnEquip stat="27" amount="4">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>650</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Chasuble_of_Holy_Light}</DisplayId>
    </Object>
@@ -9134,7 +9134,7 @@
       <ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
       <FameBonus>2</FameBonus>
       <BagType>4</BagType>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ring_of_Divine_Faith}</DisplayId>
    </Object>
@@ -9154,7 +9154,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Holy_Water}</DisplayId>
    </Object>
    <Object type="0xc22" id="Bone Dagger">
@@ -9179,7 +9179,7 @@
       <BagType>4</BagType>
       <OldSound>daggerSwing</OldSound>
       <FameBonus>2</FameBonus>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Bone_Dagger}</DisplayId>
    </Object>
@@ -9196,7 +9196,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Manor of the Immortals Portal">Create</Activate>
-      <feedPower>240</feedPower>
+
       <Track/>
       <DisplayId>{equip.Manor_Key}</DisplayId>
    </Object>
@@ -9226,7 +9226,7 @@
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
       <FameBonus>2</FameBonus>
-      <feedPower>550</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Anatis_Staff}</DisplayId>
    </Object>
@@ -9244,7 +9244,7 @@
       <BagType>0</BagType>
       <Activate effect="Drunk" duration="6">ConditionEffectSelf</Activate>
       <Activate effect="Invisible" duration="4">ConditionEffectSelf</Activate>
-      <feedPower>35</feedPower>
+
       <DisplayId>{equip.Ghost_Pirate_Rum}</DisplayId>
    </Object>
    <Object type="0x913" id="Crown">
@@ -9262,7 +9262,7 @@
       <ActivateOnEquip stat="22" amount="20">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <Soulbound/>
-      <feedPower>0</feedPower>
+
       <DisplayId>{equip.Crown}</DisplayId>
    </Object>
    <Object type="0xc27" id="Captain's Ring">
@@ -9279,7 +9279,7 @@
       <ActivateOnEquip stat="0" amount="40">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>400</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.CaptainAPOSs_Ring}</DisplayId>
    </Object>
@@ -9298,7 +9298,7 @@
       <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
-      <feedPower>650</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Spectral_Cloth_Armor}</DisplayId>
    </Object>
@@ -9325,7 +9325,7 @@
       <BagType>6</BagType>
       <OldSound>daggerSwing</OldSound>
       <FameBonus>4</FameBonus>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Spirit_Dagger}</DisplayId>
    </Object>
@@ -9344,7 +9344,7 @@
       <Activate objectId="Spirit Prism Bomb">Pet</Activate>
       <Activate maxDistance="20">Teleport</Activate>
       <FameBonus>6</FameBonus>
-      <feedPower>1200</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ghostly_Prism}</DisplayId>
    </Object>
@@ -9363,7 +9363,7 @@
       <Activate objectId="Lil Firecracker">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>30</feedPower>
+
       <DisplayId>{equip.Small_Firecracker}</DisplayId>
    </Object>
    <Object type="0xc2c" id="Large Firecracker">
@@ -9381,7 +9381,7 @@
       <Activate objectId="Big Firecracker">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Large_Firecracker}</DisplayId>
    </Object>
    <Object type="0xc2d" id="America Ring">
@@ -9403,7 +9403,7 @@
       <ActivateOnEquip stat="3" amount="20">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>3</FameBonus>
-      <feedPower>700</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.America_Ring}</DisplayId>
    </Object>
@@ -9420,7 +9420,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Davy Jones' Locker Portal">Create</Activate>
-      <feedPower>230</feedPower>
+
       <DisplayId>{equip.DavyAPOSs_Key}</DisplayId>
    </Object>
    <Object type="0xc30" id="Scepter of Fulmination">
@@ -9440,7 +9440,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>65</MpCost>
       <Activate totalDamage="180" maxTargets="7" condEffect="Slowed" condDuration="3" color="0xff9933">Lightning</Activate>
-      <feedPower>1100</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Scepter_of_Fulmination}</DisplayId>
    </Object>
@@ -9459,7 +9459,7 @@
       <ActivateOnEquip stat="21" amount="4">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Experimental_Ring}</DisplayId>
    </Object>
@@ -9479,7 +9479,7 @@
       <ActivateOnEquip stat="3" amount="55">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>800</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Robe_of_the_Mad_Scientist}</DisplayId>
    </Object>
@@ -9507,7 +9507,7 @@
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Conducting_Wand}</DisplayId>
    </Object>
@@ -9529,7 +9529,7 @@
       <Activate objectId="Sand Castle">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>80</feedPower>
+
    </Object>
    <Object type="0xc35" id="Sand Pail 4">
       <DisplayId>{equip.Sand_Pail_4}</DisplayId>
@@ -9549,7 +9549,7 @@
       <Activate objectId="Sand Castle">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>60</feedPower>
+
    </Object>
    <Object type="0xc36" id="Sand Pail 3">
       <DisplayId>{equip.Sand_Pail_3}</DisplayId>
@@ -9569,7 +9569,7 @@
       <Activate objectId="Sand Castle">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>40</feedPower>
+
    </Object>
    <Object type="0xc37" id="Sand Pail 2">
       <DisplayId>{equip.Sand_Pail_2}</DisplayId>
@@ -9589,7 +9589,7 @@
       <Activate objectId="Sand Castle">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>20</feedPower>
+
    </Object>
    <Object type="0xc38" id="Sand Pail 1">
       <DisplayId>{equip.Sand_Pail_1}</DisplayId>
@@ -9607,7 +9607,7 @@
       <Activate objectId="Sand Castle">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>10</feedPower>
+
    </Object>
    <Object type="0xc39" id="Bahama Sunrise">
       <Class>Equipment</Class>
@@ -9626,7 +9626,7 @@
       <Activate stat="28" amount="10" duration="20">StatBoostSelf</Activate>
       <Activate stat="0" amount="50" duration="20">StatBoostSelf</Activate>
       <Activate effect="Drunk" duration="15">ConditionEffectSelf</Activate>
-      <feedPower>60</feedPower>
+
       <DisplayId>{equip.Bahama_Sunrise}</DisplayId>
    </Object>
    <Object type="0xc3a" id="Blue Paradise">
@@ -9646,7 +9646,7 @@
       <Activate stat="3" amount="50" duration="20">StatBoostSelf</Activate>
       <Activate stat="0" amount="50" duration="20">StatBoostSelf</Activate>
       <Activate effect="Drunk" duration="15">ConditionEffectSelf</Activate>
-      <feedPower>60</feedPower>
+
       <DisplayId>{equip.Blue_Paradise}</DisplayId>
    </Object>
    <Object type="0xc3b" id="Pink Passion Breeze">
@@ -9666,7 +9666,7 @@
       <Activate stat="20" amount="10" duration="20">StatBoostSelf</Activate>
       <Activate stat="28" amount="10" duration="20">StatBoostSelf</Activate>
       <Activate effect="Drunk" duration="15">ConditionEffectSelf</Activate>
-      <feedPower>60</feedPower>
+
       <DisplayId>{equip.Pink_Passion_Breeze}</DisplayId>
    </Object>
    <Object type="0xc3c" id="Lime Jungle Bay">
@@ -9686,7 +9686,7 @@
       <Activate stat="21" amount="10" duration="30">StatBoostSelf</Activate>
       <Activate stat="26" amount="10" duration="30">StatBoostSelf</Activate>
       <Activate effect="Drunk" duration="15">ConditionEffectSelf</Activate>
-      <feedPower>60</feedPower>
+
       <DisplayId>{equip.Lime_Jungle_Bay}</DisplayId>
    </Object>
    <Object type="0xc3d" id="Beachzone Key">
@@ -9702,7 +9702,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Beachzone Portal">Create</Activate>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Beachzone_Key}</DisplayId>
    </Object>
    <Object type="0xc3e" id="Gold Medal">
@@ -9719,7 +9719,7 @@
       <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>
       <FameBonus>3</FameBonus>
       <BagType>6</BagType>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Gold_Medal}</DisplayId>
    </Object>
@@ -9737,7 +9737,7 @@
       <ActivateOnEquip stat="22" amount="2">IncrementStat</ActivateOnEquip>
       <FameBonus>2</FameBonus>
       <BagType>6</BagType>
-      <feedPower>350</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Silver_Medal}</DisplayId>
    </Object>
@@ -9755,7 +9755,7 @@
       <ActivateOnEquip stat="22" amount="1">IncrementStat</ActivateOnEquip>
       <FameBonus>1</FameBonus>
       <BagType>6</BagType>
-      <feedPower>200</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Bronze_Medal}</DisplayId>
    </Object>
@@ -9772,7 +9772,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Mad Lab Portal">Create</Activate>
-      <feedPower>300</feedPower>
+
       <Track/>
       <DisplayId>{equip.Lab_Key}</DisplayId>
    </Object>
@@ -9790,7 +9790,7 @@
       <BagType>0</BagType>
       <Activate effect="Invisible">ClearConditionEffectSelf</Activate>
       <Activate effect="Hexed" duration="30">ConditionEffectSelf</Activate>
-      <feedPower>40</feedPower>
+
       <DisplayId>{equip.Transformation_Potion}</DisplayId>
    </Object>
    <Object type="0xc42" id="XP Booster">
@@ -9808,7 +9808,7 @@
       <BagType>2</BagType>
       <Timer>-1.0</Timer>
       <XpBoost/>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.XP_Booster}</DisplayId>
    </Object>
    <Object type="0xc43" id="XP Booster Test">
@@ -9827,7 +9827,7 @@
       <BagType>2</BagType>
       <Timer>300</Timer>
       <XpBoost/>
-      <feedPower>1</feedPower>
+
       <DisplayId>{equip.XP_Booster_Test}</DisplayId>
    </Object>
    <Object type="0xc44" id="Rusty Katana">
@@ -9852,7 +9852,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Rusty_Katana}</DisplayId>
    </Object>
    <Object type="0xc45" id="Kendo Stick">
@@ -9877,7 +9877,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>7</feedPower>
+
       <DisplayId>{equip.Kendo_Stick}</DisplayId>
    </Object>
    <Object type="0xc46" id="Plain Katana">
@@ -9902,7 +9902,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Plain_Katana}</DisplayId>
    </Object>
    <Object type="0xc47" id="Thunder Katana">
@@ -9927,7 +9927,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>15</feedPower>
+
       <DisplayId>{equip.Thunder_Katana}</DisplayId>
    </Object>
    <Object type="0xc48" id="Line Kutter Katana">
@@ -9952,7 +9952,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>22</feedPower>
+
       <DisplayId>{equip.Line_Kutter_Katana}</DisplayId>
    </Object>
    <Object type="0xc49" id="Night Edge">
@@ -9977,7 +9977,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>32</feedPower>
+
       <DisplayId>{equip.Night_Edge}</DisplayId>
    </Object>
    <Object type="0xc4a" id="Sky Edge">
@@ -10002,7 +10002,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>47</feedPower>
+
       <DisplayId>{equip.Sky_Edge}</DisplayId>
    </Object>
    <Object type="0xc4b" id="Buster Katana">
@@ -10027,7 +10027,7 @@
       </Projectile>
       <BagType>2</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>70</feedPower>
+
       <DisplayId>{equip.Buster_Katana}</DisplayId>
    </Object>
    <Object type="0xc4c" id="Demon Edge">
@@ -10053,7 +10053,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>100</feedPower>
+
       <DisplayId>{equip.Demon_Edge}</DisplayId>
    </Object>
    <Object type="0xc4d" id="Jewel Eye Katana">
@@ -10079,7 +10079,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Jewel_Eye_Katana}</DisplayId>
    </Object>
    <Object type="0xc4e" id="Ichimonji">
@@ -10105,7 +10105,7 @@
       <BagType>4</BagType>
       <FameBonus>2</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>212</feedPower>
+
       <DisplayId>{equip.Ichimonji}</DisplayId>
    </Object>
    <Object type="0xc4f" id="Muramasa">
@@ -10131,7 +10131,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Muramasa}</DisplayId>
    </Object>
    <Object type="0xc50" id="Masamune">
@@ -10157,7 +10157,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Masamune}</DisplayId>
    </Object>
    <Object type="0x914" id="Useless Katana">
@@ -10180,7 +10180,7 @@
       </Projectile>
       <BagType>4</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Useless_Katana}</DisplayId>
    </Object>
@@ -10206,7 +10206,7 @@
       <BagType>6</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ray_Katana}</DisplayId>
    </Object>
@@ -10242,7 +10242,7 @@
       <MpEndCost>30</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Basic_Star}</DisplayId>
    </Object>
    <Object type="0xc54" id="Four-Point Star">
@@ -10277,7 +10277,7 @@
       <MpEndCost>40</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Four-Point_Star}</DisplayId>
    </Object>
    <Object type="0xc55" id="Spiral Shuriken">
@@ -10312,7 +10312,7 @@
       <MpEndCost>50</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>20</feedPower>
+
       <DisplayId>{equip.Spiral_Shuriken}</DisplayId>
    </Object>
    <Object type="0xc56" id="Silver Star">
@@ -10348,7 +10348,7 @@
       <MpEndCost>60</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>45</feedPower>
+
       <DisplayId>{equip.Silver_Star}</DisplayId>
    </Object>
    <Object type="0xc57" id="Wind Circle">
@@ -10384,7 +10384,7 @@
       <MpEndCost>70</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>90</feedPower>
+
       <DisplayId>{equip.Wind_Circle}</DisplayId>
    </Object>
    <Object type="0xc58" id="Ice Star">
@@ -10420,7 +10420,7 @@
       <MpEndCost>85</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>185</feedPower>
+
       <DisplayId>{equip.Ice_Star}</DisplayId>
    </Object>
    <Object type="0xc59" id="Doom Circle">
@@ -10456,7 +10456,7 @@
       <MpEndCost>100</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Doom_Circle}</DisplayId>
    </Object>
    <Object type="0x916" id="Midnight Star">
@@ -10493,7 +10493,7 @@
       <MpEndCost>90</MpEndCost>
       <MultiPhase/>
       <Activate>ShurikenAbility</Activate>
-      <feedPower>850</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Midnight_Star}</DisplayId>
    </Object>
@@ -10513,7 +10513,7 @@
       <Activate amount="100">Heal</Activate>
       <Activate amount="100">Magic</Activate>
       <Activate effect="Drunk" duration="8">ConditionEffectSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Mad_God_Ale}</DisplayId>
    </Object>
    <Object type="0xc5c" id="Oryx Stout">
@@ -10531,7 +10531,7 @@
       <BagType>0</BagType>
       <Activate amount="200">Heal</Activate>
       <Activate effect="Drunk" duration="8">ConditionEffectSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Oryx_Stout}</DisplayId>
    </Object>
    <Object type="0xc5d" id="Realm-wheat Hefeweizen">
@@ -10549,7 +10549,7 @@
       <BagType>0</BagType>
       <Activate amount="200">Magic</Activate>
       <Activate effect="Drunk" duration="8">ConditionEffectSelf</Activate>
-      <feedPower>10</feedPower>
+
       <DisplayId>{equip.Realm-wheat_Hefeweizen}</DisplayId>
    </Object>
    <Object type="0x9cb" id="Def Test Sword">
@@ -10572,7 +10572,7 @@
       </Projectile>
       <BagType>1</BagType>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>6000</feedPower>
+
       <DisplayId>{equip.Def_Test_Sword}</DisplayId>
    </Object>
    <Object type="0xc5f" id="Candy Ring">
@@ -10589,7 +10589,7 @@
       <ActivateOnEquip stat="3" amount="-100">IncrementStat</ActivateOnEquip>
       <ActivateOnEquip stat="27" amount="-10">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
-      <feedPower>400</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Candy_Ring}</DisplayId>
    </Object>
@@ -10607,7 +10607,7 @@
       <BagType>0</BagType>
       <Activate objectId="Rock Candy Grenade">Pet</Activate>
       <OldSound>use_potion</OldSound>
-      <feedPower>70</feedPower>
+
       <DisplayId>{equip.Rock_Candy}</DisplayId>
    </Object>
    <Object type="0xc61" id="Candy-Coated Armor">
@@ -10623,7 +10623,7 @@
       <ActivateOnEquip stat="28" amount="-10">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>1000</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Candy-Coated_Armor}</DisplayId>
    </Object>
@@ -10640,7 +10640,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Candyland Portal">Create</Activate>
-      <feedPower>240</feedPower>
+
       <Track/>
       <DisplayId>{equip.Candy_Key}</DisplayId>
    </Object>
@@ -10658,7 +10658,7 @@
       <Potion/>
       <BagType>0</BagType>
       <Activate stat="26" amount="10" duration="20">StatBoostSelf</Activate>
-      <feedPower>25</feedPower>
+
       <DisplayId>{equip.Red_Gumball}</DisplayId>
    </Object>
    <Object type="0xc64" id="Purple Gumball">
@@ -10675,7 +10675,7 @@
       <Potion/>
       <BagType>0</BagType>
       <Activate stat="20" amount="6" duration="20">StatBoostSelf</Activate>
-      <feedPower>25</feedPower>
+
       <DisplayId>{equip.Purple_Gumball}</DisplayId>
    </Object>
    <Object type="0xc65" id="Blue Gumball">
@@ -10692,7 +10692,7 @@
       <Potion/>
       <BagType>0</BagType>
       <Activate stat="21" amount="6" duration="20">StatBoostSelf</Activate>
-      <feedPower>25</feedPower>
+
       <DisplayId>{equip.Blue_Gumball}</DisplayId>
    </Object>
    <Object type="0xc66" id="Green Gumball">
@@ -10709,7 +10709,7 @@
       <Potion/>
       <BagType>0</BagType>
       <Activate stat="22" amount="8" duration="20">StatBoostSelf</Activate>
-      <feedPower>25</feedPower>
+
       <DisplayId>{equip.Green_Gumball}</DisplayId>
    </Object>
    <Object type="0xc67" id="Yellow Gumball">
@@ -10726,7 +10726,7 @@
       <Potion/>
       <BagType>0</BagType>
       <Activate stat="28" amount="8" duration="20">StatBoostSelf</Activate>
-      <feedPower>25</feedPower>
+
       <DisplayId>{equip.Yellow_Gumball}</DisplayId>
    </Object>
    <Object type="0xc68" id="Loot Tier Potion">
@@ -10747,7 +10747,7 @@
       <LTBoosted/>
       <Timer>1800</Timer>
       <BagType>2</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Loot_Tier_Potion}</DisplayId>
    </Object>
    <Object type="0xc69" id="Loot Drop Potion">
@@ -10768,7 +10768,7 @@
       <LDBoosted/>
       <Timer>1800</Timer>
       <BagType>2</BagType>
-      <feedPower>150</feedPower>
+
       <DisplayId>{equip.Loot_Drop_Potion}</DisplayId>
    </Object>
    <Object type="0xc6a" id="XP Booster 1 hr">
@@ -10789,7 +10789,7 @@
       <BagType>2</BagType>
       <Timer>3600</Timer>
       <XpBoost/>
-      <feedPower>110</feedPower>
+
       <DisplayId>{equip.XP_Booster_1_hr}</DisplayId>
    </Object>
    <Object type="0xc6b" id="XP Booster 20 min">
@@ -10810,7 +10810,7 @@
       <BagType>2</BagType>
       <Timer>1200</Timer>
       <XpBoost/>
-      <feedPower>75</feedPower>
+
       <DisplayId>{equip.XP_Booster_20_min}</DisplayId>
    </Object>
    <Object type="0x9d3" id="Admin Staff">
@@ -10840,7 +10840,7 @@
       <NumProjectiles>3</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>50000</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Admin_Staff}</DisplayId>
    </Object>
@@ -10861,7 +10861,7 @@
       <Activate radius="2.0" totalDamage="25">DazeBlast</Activate>
       <Activate maxDistance="20">Teleport</Activate>
       <BagType>6</BagType>
-      <feedPower>1000</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Strike_Amulet}</DisplayId>
    </Object>
@@ -10881,7 +10881,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>80</MpCost>
       <Activate radius="9" totalDamage="500" duration="15" color="8fa547">PoisonGrenade</Activate>
-      <feedPower>450</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Plague_Poison}</DisplayId>
    </Object>
@@ -10900,7 +10900,7 @@
       <Soulbound/>
       <BagType>2</BagType>
       <OldSound>use_potion</OldSound>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Backpack}</DisplayId>
    </Object>
    <Object type="0xc6e" id="Resurrected Warrior's Armor">
@@ -10917,7 +10917,7 @@
       <ActivateOnEquip stat="27" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Resurrected_WarriorAPOSs_Armor}</DisplayId>
    </Object>
@@ -10934,7 +10934,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Haunted Cemetery Portal">Create</Activate>
-      <feedPower>230</feedPower>
+
       <DisplayId>{equip.Cemetery_Key}</DisplayId>
    </Object>
    <Object type="0xc70" id="Golden Ankh">
@@ -10952,7 +10952,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>400</feedPower>
+
       <DisplayId>{equip.Golden_Ankh}</DisplayId>
    </Object>
    <Object type="0xc71" id="Eye of Osiris">
@@ -10970,7 +10970,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>550</feedPower>
+
       <DisplayId>{equip.Eye_of_Osiris}</DisplayId>
    </Object>
    <Object type="0xc72" id="Pharaoh's Mask">
@@ -10988,7 +10988,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>700</feedPower>
+
       <DisplayId>{equip.PharaohAPOSs_Mask}</DisplayId>
    </Object>
    <Object type="0xc73" id="Golden Cockle">
@@ -11006,7 +11006,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Golden_Cockle}</DisplayId>
    </Object>
    <Object type="0xc74" id="Golden Conch">
@@ -11024,7 +11024,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>550</feedPower>
+
       <DisplayId>{equip.Golden_Conch}</DisplayId>
    </Object>
    <Object type="0xc75" id="Golden Horn Conch">
@@ -11042,7 +11042,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>650</feedPower>
+
       <DisplayId>{equip.Golden_Horn_Conch}</DisplayId>
    </Object>
    <Object type="0xc76" id="Golden Nut">
@@ -11060,7 +11060,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Golden_Nut}</DisplayId>
    </Object>
    <Object type="0xc77" id="Golden Bolt">
@@ -11078,7 +11078,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>550</feedPower>
+
       <DisplayId>{equip.Golden_Bolt}</DisplayId>
    </Object>
    <Object type="0xc78" id="Golden Femur">
@@ -11096,7 +11096,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Golden_Femur}</DisplayId>
    </Object>
    <Object type="0xc79" id="Golden Ribcage">
@@ -11114,7 +11114,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Golden_Ribcage}</DisplayId>
    </Object>
    <Object type="0xc7a" id="Golden Skull">
@@ -11132,7 +11132,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>650</feedPower>
+
       <DisplayId>{equip.Golden_Skull}</DisplayId>
    </Object>
    <Object type="0xc7b" id="Golden Candelabra">
@@ -11150,7 +11150,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Golden_Candelabra}</DisplayId>
    </Object>
    <Object type="0xc7c" id="Holy Cross">
@@ -11168,7 +11168,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Holy_Cross}</DisplayId>
    </Object>
    <Object type="0xc7d" id="Pearl Necklace">
@@ -11186,7 +11186,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>400</feedPower>
+
       <DisplayId>{equip.Pearl_Necklace}</DisplayId>
    </Object>
    <Object type="0xc7e" id="Golden Chalice">
@@ -11204,7 +11204,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Golden_Chalice}</DisplayId>
    </Object>
    <Object type="0xc7f" id="Ruby Gemstone">
@@ -11222,7 +11222,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>600</feedPower>
+
       <DisplayId>{equip.Ruby_Gemstone}</DisplayId>
    </Object>
    <Object type="0xc80" id="Speed Sprout">
@@ -11238,7 +11238,7 @@
       <Consumable/>
       <BagType>0</BagType>
       <Activate effect="Speedy" duration="5">ConditionEffectSelf</Activate>
-      <feedPower>35</feedPower>
+
       <DisplayId>{equip.Speed_Sprout}</DisplayId>
    </Object>
    <Object type="0xc81" id="Old Firecracker">
@@ -11256,7 +11256,7 @@
       <Activate objectId="Lil Firecracker">Pet</Activate>
       <OldSound>use_potion</OldSound>
       <Soulbound/>
-      <feedPower>400</feedPower>
+
       <DisplayId>{equip.Old_Firecracker}</DisplayId>
    </Object>
    <Object type="0xc82" id="Cheater Light Armor">
@@ -11270,7 +11270,7 @@
       <Description>{equip.Only_cheaters_wear_this_armor.}</Description>
       <ActivateOnEquip stat="0" amount="-100">IncrementStat</ActivateOnEquip>
       <BagType>0</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Cheater_Light_Armor}</DisplayId>
    </Object>
@@ -11285,7 +11285,7 @@
       <Description>{equip.Only_cheaters_wear_this_robe.}</Description>
       <ActivateOnEquip stat="0" amount="-100">IncrementStat</ActivateOnEquip>
       <BagType>0</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Cheater_Robe}</DisplayId>
    </Object>
@@ -11300,7 +11300,7 @@
       <Description>{equip.Only_cheaters_wear_this_armor.}</Description>
       <ActivateOnEquip stat="0" amount="-100">IncrementStat</ActivateOnEquip>
       <BagType>0</BagType>
-      <feedPower>300</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Cheater_Heavy_Armor}</DisplayId>
    </Object>
@@ -11318,7 +11318,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Draconis_Potion}</DisplayId>
    </Object>
    <Object type="0xcc2" id="Lucky Clover">
@@ -11340,7 +11340,7 @@
       <LTBoosted/>
       <Timer>1200</Timer>
       <BagType>2</BagType>
-      <feedPower>100</feedPower>
+
       <DisplayId>{equip.Lucky_Clover}</DisplayId>
    </Object>
    <Object type="0xcc3" id="Saint Patty's Brew">
@@ -11368,7 +11368,7 @@
       <Activate stat="20" amount="20" duration="25">StatBoostSelf</Activate>
       <Activate stat="28" amount="20" duration="25">StatBoostSelf</Activate>
       <Activate effect="Drunk" duration="8">ConditionEffectSelf</Activate>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.Saint_PattyAPOSs_Brew}</DisplayId>
    </Object>
    <Object type="0xcd4" id="Draconis Key">
@@ -11384,7 +11384,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Lair of Draconis Portal">Create</Activate>
-      <feedPower>100</feedPower>
+
       <Track/>
       <DisplayId>{equip.Draconis_Key}</DisplayId>
    </Object>
@@ -11401,7 +11401,7 @@
       <ActivateOnEquip stat="21" amount="9">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>450</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Leaf_Dragon_Hide_Armor}</DisplayId>
    </Object>
@@ -11419,7 +11419,7 @@
       <ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>450</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Water_Dragon_Silk_Robe}</DisplayId>
    </Object>
@@ -11438,7 +11438,7 @@
       <ActivateOnEquip stat="26" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>6</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>450</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Fire_Dragon_Battle_Armor}</DisplayId>
    </Object>
@@ -11465,7 +11465,7 @@
       <NumProjectiles>3</NumProjectiles>
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>450</feedPower>
+
       <ArcGap>30</ArcGap>
       <OldSound>bladeSwing</OldSound>
       <Soulbound/>
@@ -11481,7 +11481,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._To_quench_your_petAPOSs_thirstBANG}</Description>
       <BagType>2</BagType>
-      <feedPower>100</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Soft_Drink}</DisplayId>
    </Object>
@@ -11495,7 +11495,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Fresh_cut_and_steaming_hotBANG}</Description>
       <BagType>2</BagType>
-      <feedPower>250</feedPower>
+
       <Potion/>
       <Soulbound/>
       <DisplayId>{equip.Fries}</DisplayId>
@@ -11510,7 +11510,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Contains_fresh_salsaBANG}</Description>
       <BagType>2</BagType>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Great_Taco}</DisplayId>
    </Object>
@@ -11524,7 +11524,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Cheesy_and_delicious.}</Description>
       <BagType>2</BagType>
-      <feedPower>750</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Power_Pizza}</DisplayId>
    </Object>
@@ -11538,7 +11538,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Goes_best_with_milkBANG}</Description>
       <BagType>2</BagType>
-      <feedPower>1111</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Chocolate_Cream_Sandwich_Cookie}</DisplayId>
    </Object>
@@ -11552,7 +11552,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Super_healthy,_super_delicious,_super_wr}</Description>
       <BagType>2</BagType>
-      <feedPower>1500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Grapes_of_Wrath}</DisplayId>
    </Object>
@@ -11566,7 +11566,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._A_hearty_classicBANG}</Description>
       <BagType>2</BagType>
-      <feedPower>2000</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Superburger}</DisplayId>
    </Object>
@@ -11580,7 +11580,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._The_ultimate_deluxe_cheeseburgerBANG}</Description>
       <BagType>2</BagType>
-      <feedPower>3000</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Double_Cheeseburger_Deluxe}</DisplayId>
    </Object>
@@ -11594,7 +11594,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._The_nectar_of_the_gods_which_holds_great}</Description>
       <BagType>2</BagType>
-      <feedPower>5000</feedPower>
+
       <Potion/>
       <Soulbound/>
       <DisplayId>{equip.Ambrosia}</DisplayId>
@@ -11609,7 +11609,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Tart_and_tangy.}</Description>
       <BagType>2</BagType>
-      <feedPower>250</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Cranberries}</DisplayId>
    </Object>
@@ -11623,7 +11623,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Buttery_and_Delicious.}</Description>
       <BagType>2</BagType>
-      <feedPower>350</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Ear_of_Corn}</DisplayId>
    </Object>
@@ -11637,7 +11637,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Nice_and_sweet.}</Description>
       <BagType>2</BagType>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Sliced_Yam}</DisplayId>
    </Object>
@@ -11651,7 +11651,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._Fresh_out_of_OryxAPOSs_kitchen.}</Description>
       <BagType>2</BagType>
-      <feedPower>650</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Pumpkin_Pie}</DisplayId>
    </Object>
@@ -11665,7 +11665,7 @@
       </Texture>
       <Description>{equip.Food_for_your_pet._A_whole_Thanksgiving_turkeyBANG}</Description>
       <BagType>2</BagType>
-      <feedPower>1621</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Thanksgiving_Turkey}</DisplayId>
    </Object>
@@ -11682,7 +11682,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Forest Maze Portal">Create</Activate>
-      <feedPower>115</feedPower>
+
       <DisplayId>{equip.Forest_Maze_Key}</DisplayId>
    </Object>
    <Object type="0xccf" id="Woodland Labyrinth Key">
@@ -11698,7 +11698,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Woodland Labyrinth">Create</Activate>
-      <feedPower>270</feedPower>
+
       <DisplayId>{equip.Woodland_Labyrinth_Key}</DisplayId>
    </Object>
    <Object type="0xcce" id="Deadwater Docks Key">
@@ -11714,7 +11714,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Deadwater Docks">Create</Activate>
-      <feedPower>270</feedPower>
+
       <DisplayId>{equip.Deadwater_Docks_Key}</DisplayId>
    </Object>
    <Object type="0xcda" id="The Crawling Depths Key">
@@ -11730,7 +11730,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="The Crawling Depths">Create</Activate>
-      <feedPower>270</feedPower>
+
       <DisplayId>{equip.The_Crawling_Depths_Key}</DisplayId>
    </Object>
    <Object type="0xcdd" id="Shatters Key">
@@ -11746,7 +11746,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="The Shatters">Create</Activate>
-      <feedPower>270</feedPower>
+
       <Track/>
       <DisplayId>{equip.Shatters_Key}</DisplayId>
    </Object>
@@ -11771,7 +11771,7 @@
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Pirate_KingAPOSs_Cutlass}</DisplayId>
    </Object>
@@ -11800,7 +11800,7 @@
       <BagType>6</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>500</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Doku_No_Ken}</DisplayId>
    </Object>
@@ -11828,7 +11828,7 @@
       <FameBonus>4</FameBonus>
       <NumProjectiles>1</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>800</feedPower>
+
       <ArcGap>30</ArcGap>
       <Soulbound/>
       <DisplayId>{equip.Leaf_Bow}</DisplayId>
@@ -12011,7 +12011,7 @@
       <FameBonus>5</FameBonus>
       <MpCost>155</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>450</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Tablet_of_the_KingAPOSs_Avatar}</DisplayId>
    </Object>
@@ -12036,7 +12036,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Skull-splitter_Sword}</DisplayId>
    </Object>
    <Object type="0x224b" id="Potion of Health1">
@@ -12053,7 +12053,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Potion_of_Health1}</DisplayId>
    </Object>
    <Object type="0x225e" id="Potion of Health2">
@@ -12070,7 +12070,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Potion_of_Health2}</DisplayId>
    </Object>
    <Object type="0x225b" id="Potion of Health3">
@@ -12087,7 +12087,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Potion_of_Health3}</DisplayId>
    </Object>
    <Object type="0x224c" id="Potion of Health4">
@@ -12104,7 +12104,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Potion_of_Health4}</DisplayId>
    </Object>
    <Object type="0x223c" id="Potion of Health5">
@@ -12121,7 +12121,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Potion_of_Health5}</DisplayId>
    </Object>
    <Object type="0x223d" id="Potion of Health6">
@@ -12138,7 +12138,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Potion_of_Health6}</DisplayId>
    </Object>
    <Object type="0x227c" id="Slime Knight Skin">
@@ -12376,7 +12376,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Diamond_Bladed_Katana}</DisplayId>
    </Object>
    <Object type="0x228b" id="Staff of Adoration">
@@ -12404,7 +12404,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Staff_of_Adoration}</DisplayId>
    </Object>
    <Object type="0x228c" id="Wand of Budding Romance">
@@ -12429,7 +12429,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Wand_of_Budding_Romance}</DisplayId>
    </Object>
    <Object type="0x228d" id="Heartfind Dagger">
@@ -12453,7 +12453,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Heartfind_Dagger}</DisplayId>
    </Object>
    <Object type="0x228e" id="Vinesword">
@@ -12477,7 +12477,7 @@
       <BagType>2</BagType>
       <FameBonus>1</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Vinesword}</DisplayId>
    </Object>
    <Object type="0x228f" id="Cupid's Bow">
@@ -12503,7 +12503,7 @@
       <FameBonus>1</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.CupidAPOSs_Bow}</DisplayId>
    </Object>
    <Object type="0x2290" id="Bella's Key">
@@ -12587,7 +12587,7 @@
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Wand_of_Egg-cellence}</DisplayId>
    </Object>
@@ -12630,7 +12630,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Staff_of_the_Rising_Sun}</DisplayId>
    </Object>
    <Object type="0x229e" id="Thousand Suns Spell">
@@ -12657,7 +12657,7 @@
       <FameBonus>4</FameBonus>
       <MpCost>80</MpCost>
       <Activate>BulletNova</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Thousand_Suns_Spell}</DisplayId>
    </Object>
    <Object type="0x229f" id="Robe of the Summer Solstice">
@@ -12675,7 +12675,7 @@
       <ActivateOnEquip stat="3" amount="55">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>435</feedPower>
+
       <DisplayId>{equip.Robe_of_the_Summer_Solstice}</DisplayId>
    </Object>
    <Object type="0x2300" id="Ring of the Burning Sun">
@@ -12690,7 +12690,7 @@
       <ActivateOnEquip stat="21" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Ring_of_the_Burning_Sun}</DisplayId>
    </Object>
    <Object type="0x224f" id="Holy Avenger Skin">
@@ -12731,7 +12731,7 @@
       <FameBonus>6</FameBonus>
       <NumProjectiles>1</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>900</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Bow_of_the_Morning_Star}</DisplayId>
    </Object>
@@ -12759,7 +12759,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>40</ArcGap>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>800</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Sword_of_Illumination}</DisplayId>
    </Object>
@@ -12784,7 +12784,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>450</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Dagger_of_the_Amethyst_Prism}</DisplayId>
    </Object>
@@ -12921,7 +12921,7 @@
       <NumProjectiles>7</NumProjectiles>
       <ArcGap>90</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Barely_Attuned_Magic_Thingy}</DisplayId>
    </Object>
    <Object type="0x2327" id="Lethargic Sentience">
@@ -12947,7 +12947,7 @@
       <NumProjectiles>4</NumProjectiles>
       <BagType>2</BagType>
       <OldSound>magicShoot</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Lethargic_Sentience}</DisplayId>
    </Object>
    <Object type="0x2328" id="Toy Knife">
@@ -12970,7 +12970,7 @@
       </Projectile>
       <BagType>2</BagType>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>145</feedPower>
+
       <DisplayId>{equip.Toy_Knife}</DisplayId>
    </Object>
    <Object type="0x2319" id="King Knifeula Skin">
@@ -13072,7 +13072,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_Devil_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x233b" id="The Sun Tarot Card">
@@ -13090,7 +13090,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_Sun_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x233c" id="Death Tarot Card">
@@ -13108,7 +13108,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.Death_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x233d" id="The Tower Tarot Card">
@@ -13126,7 +13126,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_Tower_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x233e" id="The Magician Tarot Card">
@@ -13144,7 +13144,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_Magician_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x233f" id="The World Tarot Card">
@@ -13162,7 +13162,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_World_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x2340" id="The Chariot Tarot Card">
@@ -13180,7 +13180,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_Chariot_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x2341" id="The Moon Tarot Card">
@@ -13198,7 +13198,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_Moon_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0xf15" id="The Fool Tarot Card">
@@ -13217,7 +13217,7 @@
       <Sound>spell/fire_nova</Sound>
       <BagType>4</BagType>
       <Treasure/>
-      <feedPower>250</feedPower>
+
       <DisplayId>{equip.The_Fool_Tarot_Card}</DisplayId>
    </Object>
    <Object type="0x2349" id="Slime Sorcerer Skin">
@@ -13374,7 +13374,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate>MysteryPortal</Activate>
-      <feedPower>225</feedPower>
+
       <Track/>
       <DisplayId>{equip.Diamond_Mystery_Key}</DisplayId>
    </Object>
@@ -13391,7 +13391,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate>MysteryPortal</Activate>
-      <feedPower>225</feedPower>
+
       <Track/>
       <DisplayId>{equip.Ruby_Mystery_Key}</DisplayId>
    </Object>
@@ -13408,7 +13408,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate>MysteryPortal</Activate>
-      <feedPower>225</feedPower>
+
       <Track/>
       <DisplayId>{equip.Emerald_Mystery_Key}</DisplayId>
    </Object>
@@ -13427,7 +13427,7 @@
       <ActivateOnEquip stat="3" amount="80">IncrementStat</ActivateOnEquip>
       <FameBonus>5</FameBonus>
       <BagType>6</BagType>
-      <feedPower>250</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Harlequin_Armor}</DisplayId>
    </Object>
@@ -13471,7 +13471,7 @@
       <ActivateOnEquip stat="21" amount="24">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>435</feedPower>
+
       <DisplayId>{equip.Almandine_Armor_of_Anger}</DisplayId>
    </Object>
    <Object type="0x2338" id="Almandine Ring of Wrath" setType="0x0001" setName="Oryx Awesome Set">
@@ -13486,7 +13486,7 @@
       <ActivateOnEquip stat="0" amount="140">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>300</feedPower>
+
       <DisplayId>{equip.Almandine_Ring_of_Wrath}</DisplayId>
    </Object>
    <Object type="0x2339" id="Onyx Shield of the Mad God" setType="0x0001" setName="Oryx Awesome Set">
@@ -13521,7 +13521,7 @@
       <MpCost>100</MpCost>
       <Activate>Shoot</Activate>
       <NumProjectiles>5</NumProjectiles>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Onyx_Shield_of_the_Mad_God}</DisplayId>
    </Object>
    <Object type="0x2302" id="Sword of the Mad God" setType="0x0001" setName="Oryx Awesome Set">
@@ -13546,7 +13546,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>450</feedPower>
+
       <DisplayId>{equip.Sword_of_the_Mad_God}</DisplayId>
    </Object>
    <Object type="0xf10" id="Wand of Ancient Terror">
@@ -13572,7 +13572,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Wand_of_Ancient_Terror}</DisplayId>
    </Object>
@@ -13597,7 +13597,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Dagger_of_the_Terrible_Talon}</DisplayId>
    </Object>
@@ -13625,7 +13625,7 @@
       <FameBonus>3</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Bow_of_Nightmares}</DisplayId>
    </Object>
@@ -13655,7 +13655,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Staff_of_Horrific_Knowledge}</DisplayId>
    </Object>
@@ -13682,7 +13682,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Corrupted_Cleaver}</DisplayId>
    </Object>
@@ -13701,7 +13701,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Attack}</DisplayId>
    </Object>
    <Object type="0x2369" id="Greater Potion of Defense">
@@ -13719,7 +13719,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Defense}</DisplayId>
    </Object>
    <Object type="0x236A" id="Greater Potion of Speed">
@@ -13737,7 +13737,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Speed}</DisplayId>
    </Object>
    <Object type="0x236B" id="Greater Potion of Vitality">
@@ -13755,7 +13755,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Vitality}</DisplayId>
    </Object>
    <Object type="0x236C" id="Greater Potion of Wisdom">
@@ -13773,7 +13773,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Wisdom}</DisplayId>
    </Object>
    <Object type="0x236D" id="Greater Potion of Dexterity">
@@ -13791,7 +13791,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Dexterity}</DisplayId>
    </Object>
    <Object type="0x236E" id="Greater Potion of Life">
@@ -13808,7 +13808,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>350</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Life}</DisplayId>
    </Object>
    <Object type="0x236F" id="Greater Potion of Mana">
@@ -13825,7 +13825,7 @@
       <Consumable/>
       <Potion/>
       <BagType>5</BagType>
-      <feedPower>350</feedPower>
+
       <DisplayId>{equip.Greater_Potion_of_Mana}</DisplayId>
    </Object>
    <Object type="0x2372" id="Ghost Huntress Skin">
@@ -14086,7 +14086,7 @@
       <Consumable/>
       <Potion/>
       <BagType>0</BagType>
-      <feedPower>5</feedPower>
+
       <DisplayId>{equip.Candy_Corn}</DisplayId>
    </Object>
    <Object type="0x746c" id="Puppet Master's Encore Key">
@@ -14102,7 +14102,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Puppet Encore Portal">Create</Activate>
-      <feedPower>200</feedPower>
+
       <DisplayId>{equip.Puppet_MasterAPOSs_Encore_Key}</DisplayId>
    </Object>
    <Object type="0x766" id="Staff of Esben">
@@ -14134,7 +14134,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>400</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Staff_of_Esben}</DisplayId>
    </Object>
@@ -14155,7 +14155,7 @@
       <MpCost>135</MpCost>
       <Activate radius="3" totalDamage="150">VampireBlast</Activate>
       <Activate effect="Slowed" duration="2.5" range="3" color="0x05c2b5" target="enemy" center="mouse" visualEffect="0" useWisMod="false">GenericActivate</Activate>
-      <feedPower>250</feedPower>
+
       <Soulbound/>
       <DisplayId>{equip.Skullish_Remains_of_Esben}</DisplayId>
    </Object>
@@ -14175,7 +14175,7 @@
       <ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>435</feedPower>
+
       <DisplayId>{equip.Shendyt_of_Geb}</DisplayId>
    </Object>
    <Object type="0x235D" id="Geb's Ring of Wisdom" setType="0x0002" setName="Priest of Geb Set">
@@ -14193,7 +14193,7 @@
       <ActivateOnEquip stat="27" amount="10">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.GebAPOSs_Ring_of_Wisdom}</DisplayId>
    </Object>
    <Object type="0x235E" id="Book of Geb" setType="0x0002" setName="Priest of Geb Set">
@@ -14218,7 +14218,7 @@
       <Activate amount="90" range="5" useWisMod="true">HealNova</Activate>
       <Activate range="5" effect="Speedy" checkExistingEffect="Hexed">ClearConditionEffectAura</Activate>
       <Activate range="5">RemoveNegativeConditions</Activate>
-      <feedPower>380</feedPower>
+
       <DisplayId>{equip.Book_of_Geb}</DisplayId>
    </Object>
    <Object type="0x235F" id="Scepter of Geb" setType="0x0002" setName="Priest of Geb Set">
@@ -14247,7 +14247,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>800</feedPower>
+
       <DisplayId>{equip.Scepter_of_Geb}</DisplayId>
    </Object>
    <Object type="0x2360" id="Soulless Robe" setType="0x0004" setName="Phylactery Mystic Set">
@@ -14263,7 +14263,7 @@
       <ActivateOnEquip stat="21" amount="15">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>435</feedPower>
+
       <DisplayId>{equip.Soulless_Robe}</DisplayId>
    </Object>
    <Object type="0x2361" id="Ring of the Covetous Heart" setType="0x0004" setName="Phylactery Mystic Set">
@@ -14281,7 +14281,7 @@
       <ActivateOnEquip stat="27" amount="8">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Ring_of_the_Covetous_Heart}</DisplayId>
    </Object>
    <Object type="0x2362" id="Soul of the Bearer" setType="0x0004" setName="Phylactery Mystic Set">
@@ -14306,7 +14306,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <MpCost>150</MpCost>
-      <feedPower>600</feedPower>
+
       <DisplayId>{equip.Soul_of_the_Bearer}</DisplayId>
    </Object>
    <Object type="0x2363" id="The Phylactery" setType="0x0004" setName="Phylactery Mystic Set">
@@ -14335,7 +14335,7 @@
       <OldSound>bladeSwing</OldSound>
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.The_Phylactery}</DisplayId>
    </Object>
    <Object type="0x2364" id="Fairy Plate" setType="0x0003" setName="Swoll Paladin Set">
@@ -14352,7 +14352,7 @@
       <ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Fairy_Plate}</DisplayId>
    </Object>
    <Object type="0x2365" id="Ring of Pure Wishes" setType="0x0003" setName="Swoll Paladin Set">
@@ -14369,7 +14369,7 @@
       <ActivateOnEquip stat="21" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>5</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Ring_of_Pure_Wishes}</DisplayId>
    </Object>
    <Object type="0x2366" id="Seal of the Enchanted Forest" setType="0x0003" setName="Swoll Paladin Set">
@@ -14392,7 +14392,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <MpCost>100</MpCost>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Seal_of_the_Enchanted_Forest}</DisplayId>
    </Object>
    <Object type="0x2367" id="Pixie-Enchanted Sword" setType="0x0003" setName="Swoll Paladin Set">
@@ -14420,7 +14420,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Pixie-Enchanted_Sword}</DisplayId>
    </Object>
    <Object type="0x21a0" id="Etherite Dagger" setType="0x0005" setName="Skuld 2 The ReGhostening Set">
@@ -14448,7 +14448,7 @@
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Etherite_Dagger}</DisplayId>
    </Object>
    <Object type="0x21a1" id="Mantle of Skuld" setType="0x0005" setName="Skuld 2 The ReGhostening Set">
@@ -14465,7 +14465,7 @@
       <ActivateOnEquip stat="21" amount="12">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Mantle_of_Skuld}</DisplayId>
    </Object>
    <Object type="0x21a2" id="Ghastly Drape" setType="0x0005" setName="Skuld 2 The ReGhostening Set">
@@ -14485,7 +14485,7 @@
       <Activate effect="Invisible" duration="5.5">ConditionEffectSelf</Activate>
       <Activate effect="Speedy" duration="2">ConditionEffectSelf</Activate>
       <Cooldown>6.5</Cooldown>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Ghastly_Drape}</DisplayId>
    </Object>
    <Object type="0x21a3" id="Spectral Ring of Horrors" setType="0x0005" setName="Skuld 2 The ReGhostening Set">
@@ -14502,7 +14502,7 @@
       <ActivateOnEquip stat="0" amount="25">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.Spectral_Ring_of_Horrors}</DisplayId>
    </Object>
    <Object type="0x21a7" id="Sentient Staff" setType="0x0006" setName="Twilight Archmage Set">
@@ -14530,7 +14530,7 @@
       <ActivateOnEquip stat="27" amount="10">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
@@ -14552,7 +14552,7 @@
       <ActivateOnEquip stat="28" amount="3">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.The_Robe_of_Twilight}</DisplayId>
    </Object>
    <Object type="0x21a9" id="Ancient Spell: Pierce" setType="0x0006" setName="Twilight Archmage Set">
@@ -14580,7 +14580,7 @@
       <Usable/>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <MpCost>80</MpCost>
       <Activate>BulletNova</Activate>
       <DisplayId>{equip.Ancient_Spell:_Pierce}</DisplayId>
@@ -14598,7 +14598,7 @@
       <ActivateOnEquip stat="3" amount="5">IncrementStat</ActivateOnEquip>
       <BagType>4</BagType>
       <FameBonus>4</FameBonus>
-      <feedPower>500</feedPower>
+
       <DisplayId>{equip.The_Forgotten_Ring}</DisplayId>
    </Object>
    <Object type="0x258a" id="Bow of Eternal Frost">
@@ -14626,7 +14626,7 @@
       <FameBonus>3</FameBonus>
       <NumProjectiles>3</NumProjectiles>
       <OldSound>arrowShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Bow_of_Eternal_Frost}</DisplayId>
    </Object>
    <Object type="0x258c" id="Frostbite">
@@ -14651,7 +14651,7 @@
       <BagType>2</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Frostbite}</DisplayId>
    </Object>
    <Object type="0x237c" id="Present Dispensing Wand">
@@ -14677,7 +14677,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Present_Dispensing_Wand}</DisplayId>
    </Object>
    <Object type="0x237d" id="An Icicle">
@@ -14703,7 +14703,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>daggerSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.An_Icicle}</DisplayId>
    </Object>
    <Object type="0x237e" id="Staff of Yuletide Carols">
@@ -14732,7 +14732,7 @@
       <NumProjectiles>2</NumProjectiles>
       <ArcGap>0</ArcGap>
       <OldSound>magicShoot</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Staff_of_Yuletide_Carols}</DisplayId>
    </Object>
    <Object type="0x237f" id="Salju">
@@ -14759,7 +14759,7 @@
       <BagType>4</BagType>
       <FameBonus>3</FameBonus>
       <OldSound>bladeSwing</OldSound>
-      <feedPower>310</feedPower>
+
       <DisplayId>{equip.Salju}</DisplayId>
    </Object>
    <Object type="0xcf0" id="Santa Skin">
@@ -14774,7 +14774,7 @@
       <Activate skinType="850">UnlockSkin</Activate>
       <Consumable/>
       <BagType>1</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Santa_Skin}</DisplayId>
    </Object>
    <Object type="0xcf1" id="Little Helper Skin">
@@ -14789,7 +14789,7 @@
       <Activate skinType="851">UnlockSkin</Activate>
       <Consumable/>
       <BagType>1</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Little_Helper_Skin}</DisplayId>
    </Object>
    <Object type="0xcf8" id="Iceman Skin">
@@ -14804,7 +14804,7 @@
       <Activate skinType="902">UnlockSkin</Activate>
       <Consumable/>
       <BagType>1</BagType>
-      <feedPower>50</feedPower>
+
       <DisplayId>{equip.Iceman_Skin}</DisplayId>
    </Object>
    <Object type="0xcf9" id="Pet Form Stone">
@@ -14817,7 +14817,7 @@
       </Texture>
       <Description>{equip.Lets_you_choose_and_change_the_physical_form_of_your_pet.\n}</Description>
       <BagType>4</BagType>
-      <feedPower>10</feedPower>
+
       <Soulbound/>
       <PetFormStone/>
       <DisplayId>{equip.Pet_Form_Stone}</DisplayId>

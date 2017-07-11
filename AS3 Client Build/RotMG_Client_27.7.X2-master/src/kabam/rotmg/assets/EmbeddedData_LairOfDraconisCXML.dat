@@ -2173,7 +2173,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Ivory Wyvern Portal">Create</Activate>
-      <feedPower>100</feedPower>
+
       <DisplayId>{lairOfDraconis.Ivory_Wyvern_Key}</DisplayId>
    </Object>
    <Object type="0x7411" id="lod Ivory Loot">

@@ -1,0 +1,346 @@
+2017-07-10 00:52:30,660 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-07-10 00:52:30,730 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-07-10 00:52:33,906 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-07-10 00:52:33,907 [Entry] INFO  db.SimpleSettings - Settings not found.
+2017-07-10 00:52:33,907 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data'...
+2017-07-10 00:52:33,908 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\Addition.xml'(1/4)...
+2017-07-10 00:52:34,048 [Entry] INFO  db.data.XmlData - Auto assigned 'Niggo' to 0xc350
+2017-07-10 00:52:34,383 [Entry] INFO  db.data.XmlData - Auto assigned 'Over Niggo' to 0xc351
+2017-07-10 00:52:34,389 [Entry] INFO  db.data.XmlData - Auto assigned 'Forgotten Archmage of Flame' to 0xc352
+2017-07-10 00:52:34,391 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat0.xml'(2/4)...
+2017-07-10 00:52:34,512 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat1.xml'(3/4)...
+2017-07-10 00:52:35,713 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-07-10 00:52:35,899 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-07-10 00:52:35,900 [Entry] INFO  db.data.XmlData - 1281 Items
+2017-07-10 00:52:35,900 [Entry] INFO  db.data.XmlData - 333 Tiles
+2017-07-10 00:52:35,900 [Entry] INFO  db.data.XmlData - 2232 Objects
+2017-07-10 00:52:35,900 [Entry] INFO  db.data.XmlData - 3 Additions
+2017-07-10 00:52:35,910 [Entry] INFO  Server - Listening at port 80...
+2017-07-10 00:53:03,840 [5] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:03,840 [7] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:64573
+2017-07-10 00:53:03,852 [8] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:64573
+2017-07-10 00:53:03,853 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:03,854 [7] INFO  Server - Request "/app/getLanguageStrings" from: 127.0.0.1:64573
+2017-07-10 00:53:03,855 [8] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:03,856 [8] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:03,856 [8] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:03,857 [8] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:03,857 [8] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:03,858 [8] INFO  Server - Request "/music/sorc.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:04,342 [8] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:04,872 [7] INFO  Server - Request "/app/init" from: 127.0.0.1:64573
+2017-07-10 00:53:04,918 [7] INFO  Server - Request "/char/list" from: 127.0.0.1:64573
+2017-07-10 00:53:06,629 [7] INFO  Server - Request "/package/getPackages" from: 127.0.0.1:64573
+2017-07-10 00:53:06,648 [7] INFO  Server - Request "/app/globalNews" from: 127.0.0.1:64573
+2017-07-10 00:53:06,908 [7] INFO  Server - Request "/mysterybox/getBoxes" from: 127.0.0.1:64573
+2017-07-10 00:53:33,379 [7] INFO  Server - Request "/account/register" from: 127.0.0.1:64573
+2017-07-10 00:53:42,690 [7] INFO  Server - Request "/account/register" from: 127.0.0.1:64573
+2017-07-10 00:53:48,869 [7] INFO  Server - Request "/account/setName" from: 127.0.0.1:64573
+2017-07-10 00:53:58,101 [7] INFO  Server - Request "/friends/getList" from: 127.0.0.1:64573
+2017-07-10 00:53:59,579 [7] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:59,580 [7] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: 127.0.0.1:64573
+2017-07-10 00:53:59,580 [9] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: 127.0.0.1:64572
+2017-07-10 00:53:59,581 [10] INFO  Server - Request "/sfx/monster/default_death.mp3" from: 127.0.0.1:64573
+2017-07-10 00:54:06,858 [10] INFO  Server - Request "/sfx/magicShoot.mp3" from: 127.0.0.1:64573
+2017-07-10 00:54:36,675 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64573
+2017-07-10 00:58:47,260 [10] INFO  Server - Request "/account/purchaseCharSlot" from: 127.0.0.1:64745
+2017-07-10 00:58:48,387 [10] INFO  Server - Request "/account/purchaseCharSlot" from: 127.0.0.1:64745
+2017-07-10 00:58:48,902 [10] INFO  Server - Request "/account/purchaseCharSlot" from: 127.0.0.1:64745
+2017-07-10 00:58:53,764 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:53,838 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:54,531 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:54,631 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:54,883 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:55,000 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:55,786 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:55,960 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:56,476 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:56,534 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:57,237 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:57,321 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:57,976 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:58,045 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:58,410 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:58,564 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:59,153 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:59,233 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:59,560 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:58:59,624 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:58:59,983 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:59:00,044 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:59:00,813 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:59:00,957 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:59:01,172 [10] INFO  Server - Request "/char/purchaseClassUnlock" from: 127.0.0.1:64745
+2017-07-10 00:59:01,228 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:59:06,728 [10] INFO  Server - Request "/account/purchaseSkin" from: 127.0.0.1:64745
+2017-07-10 00:59:46,519 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 00:59:47,537 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:64745
+2017-07-10 02:20:38,515 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-07-10 02:20:38,531 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-07-10 02:20:38,662 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-07-10 02:20:38,663 [Entry] INFO  db.SimpleSettings - Settings not found.
+2017-07-10 02:20:38,663 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data'...
+2017-07-10 02:20:38,664 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\Addition.xml'(1/4)...
+2017-07-10 02:20:38,667 [Entry] INFO  db.data.XmlData - Auto assigned 'Niggo' to 0xc350
+2017-07-10 02:20:38,684 [Entry] INFO  db.data.XmlData - Auto assigned 'Over Niggo' to 0xc351
+2017-07-10 02:20:38,690 [Entry] INFO  db.data.XmlData - Auto assigned 'Forgotten Archmage of Flame' to 0xc352
+2017-07-10 02:20:38,692 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat0.xml'(2/4)...
+2017-07-10 02:20:38,699 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat1.xml'(3/4)...
+2017-07-10 02:20:38,852 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-07-10 02:20:38,866 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-07-10 02:20:38,866 [Entry] INFO  db.data.XmlData - 1281 Items
+2017-07-10 02:20:38,866 [Entry] INFO  db.data.XmlData - 333 Tiles
+2017-07-10 02:20:38,866 [Entry] INFO  db.data.XmlData - 2232 Objects
+2017-07-10 02:20:38,867 [Entry] INFO  db.data.XmlData - 3 Additions
+2017-07-10 02:20:38,874 [Entry] INFO  Server - Listening at port 80...
+2017-07-10 02:20:45,985 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:45,993 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:51142
+2017-07-10 02:20:45,995 [3] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:45,996 [3] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:45,997 [3] INFO  Server - Request "/music/sorc.mp3" from: 127.0.0.1:51142
+2017-07-10 02:20:45,997 [6] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:45,998 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:45,998 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:45,999 [6] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:45,999 [6] INFO  Server - Request "/app/getLanguageStrings" from: 127.0.0.1:51143
+2017-07-10 02:20:46,038 [3] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:51142
+2017-07-10 02:20:46,040 [3] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:51142
+2017-07-10 02:20:46,088 [6] INFO  Server - Request "/app/init" from: 127.0.0.1:51143
+2017-07-10 02:20:46,108 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:51143
+2017-07-10 02:20:46,260 [6] INFO  Server - Request "/package/getPackages" from: 127.0.0.1:51143
+2017-07-10 02:20:46,277 [6] INFO  Server - Request "/app/globalNews" from: 127.0.0.1:51143
+2017-07-10 02:20:46,571 [6] INFO  Server - Request "/mysterybox/getBoxes" from: 127.0.0.1:51143
+2017-07-10 02:20:48,229 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:48,230 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: 127.0.0.1:51142
+2017-07-10 02:20:57,611 [6] INFO  Server - Request "/friends/getList" from: 127.0.0.1:51142
+2017-07-10 02:20:58,231 [6] INFO  Server - Request "/sfx/monster/golems_hit.mp3" from: 127.0.0.1:51143
+2017-07-10 02:20:58,232 [6] INFO  Server - Request "/sfx/monster/golems_death.mp3" from: 127.0.0.1:51142
+2017-07-10 02:21:04,941 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:51142
+2017-07-10 02:21:16,621 [6] INFO  Server - Request "/char/delete" from: 127.0.0.1:51142
+2017-07-10 02:23:02,312 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:51244
+2017-07-10 02:26:24,424 [6] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:51433
+2017-07-10 02:26:24,426 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:51434
+2017-07-10 02:26:24,428 [8] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:51433
+2017-07-10 02:26:24,430 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:51434
+2017-07-10 02:26:24,433 [8] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:51433
+2017-07-10 02:26:24,435 [6] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:51434
+2017-07-10 02:26:24,437 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:51433
+2017-07-10 02:26:24,438 [6] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:51434
+2017-07-10 02:26:24,440 [8] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:51433
+2017-07-10 02:26:24,441 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:51434
+2017-07-10 02:27:40,581 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:51475
+2017-07-10 02:27:40,582 [6] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:51476
+2017-07-10 02:27:40,585 [9] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:51475
+2017-07-10 02:27:40,587 [6] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:51476
+2017-07-10 02:27:40,588 [9] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:51475
+2017-07-10 02:27:40,590 [6] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:51476
+2017-07-10 02:27:40,590 [9] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:51475
+2017-07-10 02:27:40,593 [9] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:51475
+2017-07-10 02:27:40,592 [6] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:51476
+2017-07-10 02:27:40,596 [9] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:51475
+2017-07-10 02:28:20,736 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-07-10 02:28:20,753 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-07-10 02:28:20,876 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-07-10 02:28:20,876 [Entry] INFO  db.SimpleSettings - Settings not found.
+2017-07-10 02:28:20,877 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data'...
+2017-07-10 02:28:20,878 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\Addition.xml'(1/4)...
+2017-07-10 02:28:20,881 [Entry] INFO  db.data.XmlData - Auto assigned 'Niggo' to 0xc350
+2017-07-10 02:28:20,896 [Entry] INFO  db.data.XmlData - Auto assigned 'Over Niggo' to 0xc351
+2017-07-10 02:28:20,900 [Entry] INFO  db.data.XmlData - Auto assigned 'Forgotten Archmage of Flame' to 0xc352
+2017-07-10 02:28:20,902 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat0.xml'(2/4)...
+2017-07-10 02:28:20,908 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat1.xml'(3/4)...
+2017-07-10 02:28:21,035 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-07-10 02:28:21,049 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-07-10 02:28:21,049 [Entry] INFO  db.data.XmlData - 1281 Items
+2017-07-10 02:28:21,050 [Entry] INFO  db.data.XmlData - 333 Tiles
+2017-07-10 02:28:21,050 [Entry] INFO  db.data.XmlData - 2232 Objects
+2017-07-10 02:28:21,050 [Entry] INFO  db.data.XmlData - 3 Additions
+2017-07-10 02:28:21,057 [Entry] INFO  Server - Listening at port 80...
+2017-07-10 02:28:25,093 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:51498
+2017-07-10 02:28:25,104 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:51497
+2017-07-10 02:28:25,106 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:51497
+2017-07-10 02:28:25,107 [6] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:51498
+2017-07-10 02:28:25,108 [3] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:51497
+2017-07-10 02:28:25,112 [6] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:51498
+2017-07-10 02:28:25,115 [3] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:51497
+2017-07-10 02:28:25,119 [6] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:51498
+2017-07-10 02:28:25,123 [3] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:51497
+2017-07-10 02:28:25,126 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:51498
+2017-07-10 02:29:27,520 [6] INFO  Server - Request "/music/sorc.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,554 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:51545
+2017-07-10 02:29:27,556 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:51545
+2017-07-10 02:29:27,557 [6] INFO  Server - Request "/app/getLanguageStrings" from: 127.0.0.1:51545
+2017-07-10 02:29:27,558 [7] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,563 [8] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,565 [8] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,584 [8] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,585 [8] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,586 [8] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,587 [8] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,589 [8] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:27,629 [6] INFO  Server - Request "/app/init" from: 127.0.0.1:51545
+2017-07-10 02:29:27,648 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:51545
+2017-07-10 02:29:28,833 [6] INFO  Server - Request "/package/getPackages" from: 127.0.0.1:51545
+2017-07-10 02:29:28,853 [6] INFO  Server - Request "/app/globalNews" from: 127.0.0.1:51545
+2017-07-10 02:29:29,191 [6] INFO  Server - Request "/mysterybox/getBoxes" from: 127.0.0.1:51545
+2017-07-10 02:29:30,434 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:30,435 [6] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: 127.0.0.1:51545
+2017-07-10 02:29:30,609 [6] INFO  Server - Request "/sfx/monster/golems_hit.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:30,610 [6] INFO  Server - Request "/sfx/monster/golems_death.mp3" from: 127.0.0.1:51545
+2017-07-10 02:29:30,976 [6] INFO  Server - Request "/friends/getList" from: 127.0.0.1:51545
+2017-07-10 02:29:46,532 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:51545
+2017-07-10 02:29:47,558 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:51545
+2017-07-10 02:29:51,285 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:51545
+2017-07-10 02:29:56,626 [6] INFO  Server - Request "/sfx/player/rogue_hit.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:56,627 [6] INFO  Server - Request "/sfx/player/rogue_death.mp3" from: 127.0.0.1:51545
+2017-07-10 02:29:56,628 [9] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: 127.0.0.1:51546
+2017-07-10 02:29:56,631 [6] INFO  Server - Request "/sfx/monster/default_death.mp3" from: 127.0.0.1:51545
+2017-07-10 02:31:14,813 [6] INFO  Server - Request "/" from: [::1]:51671
+2017-07-10 02:31:21,987 [6] INFO  Server - Request "/js/AC_OETags.js" from: [::1]:51671
+2017-07-10 02:31:21,993 [10] INFO  Server - Request "/js/rotmg.SalesForce.js" from: [::1]:51676
+2017-07-10 02:31:22,001 [6] INFO  Server - Request "/css/rotmg.common.css" from: [::1]:51671
+2017-07-10 02:31:22,002 [10] INFO  Server - Request "/js/rotmg.Marketing.js" from: [::1]:51675
+2017-07-10 02:31:22,015 [10] INFO  Server - Request "/js/rotmg.UrlLib.js" from: [::1]:51673
+2017-07-10 02:31:22,016 [10] INFO  Server - Request "/js/rotmg.KabamPayment.js" from: [::1]:51674
+2017-07-10 02:31:22,019 [10] INFO  Server - Request "/js/jquery-1.8.0.min.js" from: [::1]:51672
+2017-07-10 02:31:22,157 [10] INFO  Server - Request "/images/logo-300x65.png" from: [::1]:51674
+2017-07-10 02:31:22,251 [10] INFO  Server - Request "/logowtext.png" from: [::1]:51674
+2017-07-10 02:31:25,790 [10] INFO  Server - Request "/" from: [::1]:51674
+2017-07-10 02:31:25,866 [10] INFO  Server - Request "/js/AC_OETags.js" from: [::1]:51674
+2017-07-10 02:31:25,873 [6] INFO  Server - Request "/js/rotmg.SalesForce.js" from: [::1]:51671
+2017-07-10 02:31:25,902 [6] INFO  Server - Request "/js/rotmg.KabamPayment.js" from: [::1]:51675
+2017-07-10 02:31:25,881 [10] INFO  Server - Request "/css/rotmg.common.css" from: [::1]:51674
+2017-07-10 02:31:25,912 [6] INFO  Server - Request "/js/rotmg.Marketing.js" from: [::1]:51676
+2017-07-10 02:31:25,916 [6] INFO  Server - Request "/js/rotmg.UrlLib.js" from: [::1]:51673
+2017-07-10 02:31:25,918 [6] INFO  Server - Request "/js/jquery-1.8.0.min.js" from: [::1]:51672
+2017-07-10 02:31:25,949 [6] INFO  Server - Request "/images/logo-300x65.png" from: [::1]:51673
+2017-07-10 02:31:25,954 [6] INFO  Server - Request "/logowtext.png" from: [::1]:51673
+2017-07-10 02:31:28,861 [6] INFO  Server - Request "/AssembleeGameClient201409192100.swf" from: [::1]:51673
+2017-07-10 02:31:28,901 [10] INFO  Server - Request "/favicon.ico" from: [::1]:51672
+2017-07-10 02:36:42,082 [6] INFO  Server - Request "/favicon.ico" from: [::1]:51849
+2017-07-10 02:40:14,017 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-07-10 02:40:14,036 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-07-10 02:40:14,184 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-07-10 02:40:14,184 [Entry] INFO  db.SimpleSettings - Settings not found.
+2017-07-10 02:40:14,185 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data'...
+2017-07-10 02:40:14,185 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\Addition.xml'(1/4)...
+2017-07-10 02:40:14,189 [Entry] INFO  db.data.XmlData - Auto assigned 'Niggo' to 0xc350
+2017-07-10 02:40:14,207 [Entry] INFO  db.data.XmlData - Auto assigned 'Over Niggo' to 0xc351
+2017-07-10 02:40:14,214 [Entry] INFO  db.data.XmlData - Auto assigned 'Forgotten Archmage of Flame' to 0xc352
+2017-07-10 02:40:14,215 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat0.xml'(2/4)...
+2017-07-10 02:40:14,258 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat1.xml'(3/4)...
+2017-07-10 02:40:14,415 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-07-10 02:40:14,431 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-07-10 02:40:14,431 [Entry] INFO  db.data.XmlData - 1281 Items
+2017-07-10 02:40:14,431 [Entry] INFO  db.data.XmlData - 333 Tiles
+2017-07-10 02:40:14,431 [Entry] INFO  db.data.XmlData - 2232 Objects
+2017-07-10 02:40:14,431 [Entry] INFO  db.data.XmlData - 3 Additions
+2017-07-10 02:40:14,440 [Entry] INFO  Server - Listening at port 80...
+2017-07-10 02:40:28,982 [3] INFO  Server - Request "/" from: [::1]:52066
+2017-07-10 02:40:29,397 [3] INFO  Server - Request "/js/AC_OETags.js" from: [::1]:52066
+2017-07-10 02:40:29,414 [6] INFO  Server - Request "/css/rotmg.common.css" from: [::1]:52066
+2017-07-10 02:40:29,416 [6] INFO  Server - Request "/js/rotmg.KabamPayment.js" from: [::1]:52069
+2017-07-10 02:40:29,419 [6] INFO  Server - Request "/js/rotmg.Marketing.js" from: [::1]:52070
+2017-07-10 02:40:29,421 [6] INFO  Server - Request "/js/rotmg.SalesForce.js" from: [::1]:52071
+2017-07-10 02:40:29,422 [6] INFO  Server - Request "/js/jquery-1.8.0.min.js" from: [::1]:52067
+2017-07-10 02:40:29,425 [6] INFO  Server - Request "/js/rotmg.UrlLib.js" from: [::1]:52068
+2017-07-10 02:40:29,444 [6] INFO  Server - Request "/images/logo-300x65.png" from: [::1]:52067
+2017-07-10 02:40:29,449 [6] INFO  Server - Request "/logowtext.png" from: [::1]:52067
+2017-07-10 02:40:29,692 [6] INFO  Server - Request "/AssembleeGameClient201409192100.swf" from: [::1]:52067
+2017-07-10 02:40:32,068 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:52080
+2017-07-10 02:40:32,080 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:52078
+2017-07-10 02:40:32,082 [6] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:52081
+2017-07-10 02:40:32,086 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:52077
+2017-07-10 02:40:32,088 [6] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:52079
+2017-07-10 02:40:32,091 [6] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:52076
+2017-07-10 02:40:32,100 [6] INFO  Server - Request "/crossdomain.xml" from: 127.0.0.1:52076
+2017-07-10 02:40:32,106 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:52077
+2017-07-10 02:40:32,109 [7] INFO  Server - Request "/app/getLanguageStrings" from: 127.0.0.1:52076
+2017-07-10 02:40:32,116 [6] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:52081
+2017-07-10 02:40:32,136 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:52080
+2017-07-10 02:40:32,142 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:52078
+2017-07-10 02:40:32,148 [6] INFO  Server - Request "/music/sorc.mp3" from: 127.0.0.1:52079
+2017-07-10 02:40:32,372 [6] INFO  Server - Request "/app/init" from: 127.0.0.1:52079
+2017-07-10 02:40:32,405 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:52079
+2017-07-10 02:40:32,540 [6] INFO  Server - Request "/package/getPackages" from: 127.0.0.1:52079
+2017-07-10 02:40:32,557 [6] INFO  Server - Request "/app/globalNews" from: 127.0.0.1:52079
+2017-07-10 02:40:32,932 [6] INFO  Server - Request "/mysterybox/getBoxes" from: 127.0.0.1:52079
+2017-07-10 02:40:43,634 [6] INFO  Server - Request "/fame/list" from: 127.0.0.1:52079
+2017-07-10 02:41:02,213 [6] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:52110
+2017-07-10 02:41:02,214 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,215 [8] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:52110
+2017-07-10 02:41:02,219 [8] INFO  Server - Request "/music/sorc.mp3" from: 127.0.0.1:52110
+2017-07-10 02:41:02,217 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,223 [6] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,226 [6] INFO  Server - Request "/app/getLanguageStrings" from: 127.0.0.1:52109
+2017-07-10 02:41:02,235 [6] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,237 [6] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,240 [6] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,242 [6] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,250 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:02,274 [8] INFO  Server - Request "/app/init" from: 127.0.0.1:52110
+2017-07-10 02:41:02,298 [8] INFO  Server - Request "/char/list" from: 127.0.0.1:52110
+2017-07-10 02:41:02,411 [8] INFO  Server - Request "/package/getPackages" from: 127.0.0.1:52110
+2017-07-10 02:41:02,428 [8] INFO  Server - Request "/app/globalNews" from: 127.0.0.1:52110
+2017-07-10 02:41:02,719 [8] INFO  Server - Request "/mysterybox/getBoxes" from: 127.0.0.1:52110
+2017-07-10 02:41:06,718 [8] INFO  Server - Request "/sfx/monster/golems_death.mp3" from: 127.0.0.1:52110
+2017-07-10 02:41:06,719 [8] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:06,720 [8] INFO  Server - Request "/sfx/monster/golems_hit.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:06,719 [6] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: 127.0.0.1:52110
+2017-07-10 02:41:06,783 [6] INFO  Server - Request "/sfx/player/rogue_death.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:06,784 [6] INFO  Server - Request "/sfx/player/rogue_hit.mp3" from: 127.0.0.1:52110
+2017-07-10 02:41:08,441 [6] INFO  Server - Request "/friends/getList" from: 127.0.0.1:52110
+2017-07-10 02:41:13,681 [6] INFO  Server - Request "/char/list" from: 127.0.0.1:52110
+2017-07-10 02:41:17,515 [6] INFO  Server - Request "/char/delete" from: 127.0.0.1:52110
+2017-07-10 02:41:18,721 [6] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: 127.0.0.1:52110
+2017-07-10 02:41:18,721 [6] INFO  Server - Request "/sfx/monster/default_death.mp3" from: 127.0.0.1:52109
+2017-07-10 02:41:19,045 [6] INFO  Server - Request "/sfx/magicShoot.mp3" from: 127.0.0.1:52109
+2017-07-10 02:43:10,508 [6] INFO  Server - Request "/sfx/button_click.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:10,510 [6] INFO  Server - Request "/sfx/level_up.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,512 [10] INFO  Server - Request "/music/sorc.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:10,515 [6] INFO  Server - Request "/sfx/use_potion.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,520 [6] INFO  Server - Request "/sfx/inventory_move_item.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,535 [6] INFO  Server - Request "/sfx/death_screen.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,537 [6] INFO  Server - Request "/app/getLanguageStrings" from: 127.0.0.1:52178
+2017-07-10 02:43:10,552 [6] INFO  Server - Request "/sfx/error.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,557 [10] INFO  Server - Request "/sfx/loot_appears.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,558 [10] INFO  Server - Request "/sfx/use_key.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,560 [10] INFO  Server - Request "/sfx/enter_realm.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,561 [10] INFO  Server - Request "/sfx/no_mana.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:10,597 [10] INFO  Server - Request "/app/init" from: 127.0.0.1:52179
+2017-07-10 02:43:10,616 [10] INFO  Server - Request "/char/list" from: 127.0.0.1:52179
+2017-07-10 02:43:10,712 [10] INFO  Server - Request "/package/getPackages" from: 127.0.0.1:52179
+2017-07-10 02:43:10,729 [10] INFO  Server - Request "/app/globalNews" from: 127.0.0.1:52179
+2017-07-10 02:43:11,039 [10] INFO  Server - Request "/mysterybox/getBoxes" from: 127.0.0.1:52179
+2017-07-10 02:43:14,953 [10] INFO  Server - Request "/sfx/monster/golems_hit.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:14,954 [10] INFO  Server - Request "/sfx/monster/golems_death.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:14,955 [10] INFO  Server - Request "/sfx/player/rogue_hit.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:14,958 [10] INFO  Server - Request "/sfx/player/rogue_death.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:15,088 [10] INFO  Server - Request "/sfx/player/wizard_death.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:15,095 [10] INFO  Server - Request "/sfx/player/wizard_hit.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:15,534 [10] INFO  Server - Request "/friends/getList" from: 127.0.0.1:52178
+2017-07-10 02:43:16,103 [10] INFO  Server - Request "/sfx/monster/default_hit.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:16,105 [10] INFO  Server - Request "/sfx/monster/default_death.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:32,373 [10] INFO  Server - Request "/sfx/monster/sprites_hit.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:32,374 [10] INFO  Server - Request "/sfx/monster/sprites_death.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:32,377 [11] INFO  Server - Request "/sfx/monster/sprite_god_death.mp3" from: 127.0.0.1:52178
+2017-07-10 02:43:32,379 [10] INFO  Server - Request "/sfx/monster/sprite_god_hit.mp3" from: 127.0.0.1:52179
+2017-07-10 02:43:42,622 [10] INFO  Server - Request "/sfx/magicShoot.mp3" from: 127.0.0.1:52179
+2017-07-10 22:16:43,243 [Entry] INFO  db.SimpleSettings - Loading settings for 'server'...
+2017-07-10 22:16:43,257 [Entry] INFO  db.SimpleSettings - Settings loaded.
+2017-07-10 22:16:43,373 [Entry] INFO  db.SimpleSettings - Loading settings for 'autoId'...
+2017-07-10 22:16:43,373 [Entry] INFO  db.SimpleSettings - Settings not found.
+2017-07-10 22:16:43,374 [Entry] INFO  db.data.XmlData - Loading game data from 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data'...
+2017-07-10 22:16:43,374 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\Addition.xml'(1/4)...
+2017-07-10 22:16:43,376 [Entry] INFO  db.data.XmlData - Auto assigned 'Niggo' to 0xc350
+2017-07-10 22:16:43,393 [Entry] INFO  db.data.XmlData - Auto assigned 'Over Niggo' to 0xc351
+2017-07-10 22:16:43,399 [Entry] INFO  db.data.XmlData - Auto assigned 'Forgotten Archmage of Flame' to 0xc352
+2017-07-10 22:16:43,400 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat0.xml'(2/4)...
+2017-07-10 22:16:43,406 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\dat1.xml'(3/4)...
+2017-07-10 22:16:43,524 [Entry] INFO  db.data.XmlData - Loading 'C:\Users\Amon\Desktop\RotMGServerTesting\bin\Debug\data\EquipmentSets.xml'(4/4)...
+2017-07-10 22:16:43,536 [Entry] INFO  db.data.XmlData - Finish loading game data.
+2017-07-10 22:16:43,536 [Entry] INFO  db.data.XmlData - 1281 Items
+2017-07-10 22:16:43,537 [Entry] INFO  db.data.XmlData - 333 Tiles
+2017-07-10 22:16:43,537 [Entry] INFO  db.data.XmlData - 2232 Objects
+2017-07-10 22:16:43,537 [Entry] INFO  db.data.XmlData - 3 Additions
+2017-07-10 22:16:43,545 [Entry] INFO  Server - Listening at port 80...

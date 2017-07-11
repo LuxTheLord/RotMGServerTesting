@@ -106,9 +106,9 @@ C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\bin\Debug\Client Updater
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\bin\Debug\MetroFramework.Design.dll
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\bin\Debug\MetroFramework.dll
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\bin\Debug\MetroFramework.Fonts.dll
-C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\obj\Debug\Client Updater.csprojResolveAssemblyReference.cache
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\obj\Debug\Client_Updater.Form1.resources
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\obj\Debug\Client_Updater.Properties.Resources.resources
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\obj\Debug\Client Updater.csproj.GenerateResource.Cache
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\obj\Debug\Client Updater.exe
 C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\obj\Debug\Client Updater.pdb
+C:\Users\Amon\Desktop\RotMGServerTesting\Client Updater\obj\Debug\Client Updater.csprojResolveAssemblyReference.cache

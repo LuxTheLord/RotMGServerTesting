@@ -3,7 +3,7 @@
 <Objects>
    <Object type="0x0300" id="Rogue">
       <Class>Player</Class>
-      <Description>{players.The_rogue_relies_on_his_speed_to_deal_damage_at_medium_ra}</Description>
+      <Description>The_rogue_relies_on_his_speed_to_deal_damage_at_medium_ra</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>0</Index>
@@ -32,11 +32,11 @@
       <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
       <UnlockLevel level="5" type="0x0307">Archer</UnlockLevel>
       <UnlockCost>199</UnlockCost>
-      <DisplayId>{players.Rogue}</DisplayId>
+      <DisplayId>Rogue</DisplayId>
    </Object>
    <Object type="0x0307" id="Archer">
       <Class>Player</Class>
-      <Description>{players.The_archer_has_a_long-range_attack_and_can_acquire_very_p}</Description>
+      <Description>The_archer_has_a_long-range_attack_and_can_acquire_very_p</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>1</Index>
@@ -65,11 +65,11 @@
       <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
       <UnlockLevel level="5" type="0x0310">Priest</UnlockLevel>
       <UnlockCost>199</UnlockCost>
-      <DisplayId>{players.Archer}</DisplayId>
+      <DisplayId>Archer</DisplayId>
    </Object>
    <Object type="0x030e" id="Wizard">
       <Class>Player</Class>
-      <Description>{players.The_wizard_deals_damage_from_a_long_distance_and_blasts_e}</Description>
+      <Description>The_wizard_deals_damage_from_a_long_distance_and_blasts_e</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>2</Index>
@@ -97,11 +97,11 @@
       <LevelIncrease min="0" max="1">HpRegen</LevelIncrease>
       <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
       <UnlockCost>0</UnlockCost>
-      <DisplayId>{players.Wizard}</DisplayId>
+      <DisplayId>Wizard</DisplayId>
    </Object>
    <Object type="0x0310" id="Priest">
       <Class>Player</Class>
-      <Description>{players.The_priest_attacks_at_long_range_and_can_heal_himself_and}</Description>
+      <Description>The_priest_attacks_at_long_range_and_can_heal_himself_and</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>3</Index>
@@ -130,11 +130,11 @@
       <LevelIncrease min="1" max="2">MpRegen</LevelIncrease>
       <UnlockLevel level="5" type="0x030e">Wizard</UnlockLevel>
       <UnlockCost>50</UnlockCost>
-      <DisplayId>{players.Priest}</DisplayId>
+      <DisplayId>Priest</DisplayId>
    </Object>
    <Object type="0x031d" id="Warrior">
       <Class>Player</Class>
-      <Description>{players.The_warrior_wears_strong_armor_and_uses_his_magic_helmet_}</Description>
+      <Description>The_warrior_wears_strong_armor_and_uses_his_magic_helmet_</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>4</Index>
@@ -163,11 +163,11 @@
       <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
       <UnlockLevel level="5" type="0x0300">Rogue</UnlockLevel>
       <UnlockCost>199</UnlockCost>
-      <DisplayId>{players.Warrior}</DisplayId>
+      <DisplayId>Warrior</DisplayId>
    </Object>
    <Object type="0x031e" id="Knight">
       <Class>Player</Class>
-      <Description>{players.The_knight_fights_at_close_range,_wears_very_heavy_armor,}</Description>
+      <Description>The_knight_fights_at_close_range,_wears_very_heavy_armor,</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>5</Index>
@@ -196,11 +196,11 @@
       <LevelIncrease min="0" max="2">MpRegen</LevelIncrease>
       <UnlockLevel level="20" type="0x031d">Warrior</UnlockLevel>
       <UnlockCost>499</UnlockCost>
-      <DisplayId>{players.Knight}</DisplayId>
+      <DisplayId>Knight</DisplayId>
    </Object>
    <Object type="0x031f" id="Paladin">
       <Class>Player</Class>
-      <Description>{players.The_paladin_can_deal_damage_at_close_range,_wear_armor_an}</Description>
+      <Description>The_paladin_can_deal_damage_at_close_range,_wear_armor_an</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>6</Index>
@@ -230,11 +230,11 @@
       <UnlockLevel level="20" type="0x031e">Knight</UnlockLevel>
       <UnlockLevel level="20" type="0x0310">Priest</UnlockLevel>
       <UnlockCost>499</UnlockCost>
-      <DisplayId>{players.Paladin}</DisplayId>
+      <DisplayId>Paladin</DisplayId>
    </Object>
    <Object type="0x0320" id="Assassin">
       <Class>Player</Class>
-      <Description>{players.The_assassin_fights_from_medium_range_and_uses_poison_to_}</Description>
+      <Description>The_assassin_fights_from_medium_range_and_uses_poison_to_</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>7</Index>
@@ -264,11 +264,11 @@
       <UnlockLevel level="20" type="0x0300">Rogue</UnlockLevel>
       <UnlockLevel level="20" type="0x030e">Wizard</UnlockLevel>
       <UnlockCost>499</UnlockCost>
-      <DisplayId>{players.Assassin}</DisplayId>
+      <DisplayId>Assassin</DisplayId>
    </Object>
    <Object type="0x0321" id="Necromancer">
       <Class>Player</Class>
-      <Description>{players.The_necromancer_drains_life_from_his_enemies_to_heal_hims}</Description>
+      <Description>The_necromancer_drains_life_from_his_enemies_to_heal_hims</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>8</Index>
@@ -298,11 +298,11 @@
       <UnlockLevel level="20" type="0x030e">Wizard</UnlockLevel>
       <UnlockLevel level="20" type="0x0310">Priest</UnlockLevel>
       <UnlockCost>499</UnlockCost>
-      <DisplayId>{players.Necromancer}</DisplayId>
+      <DisplayId>Necromancer</DisplayId>
    </Object>
    <Object type="0x0322" id="Huntress">
       <Class>Player</Class>
-      <Description>{players.The_huntress_uses_arrows_and_traps_to_defeat_her_enemies.}</Description>
+      <Description>The_huntress_uses_arrows_and_traps_to_defeat_her_enemies.</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>9</Index>
@@ -332,11 +332,11 @@
       <UnlockLevel level="20" type="0x0300">Rogue</UnlockLevel>
       <UnlockLevel level="20" type="0x0307">Archer</UnlockLevel>
       <UnlockCost>499</UnlockCost>
-      <DisplayId>{players.Huntress}</DisplayId>
+      <DisplayId>Huntress</DisplayId>
    </Object>
    <Object type="0x0323" id="Mystic">
       <Class>Player</Class>
-      <Description>{players.The_mystic_fights_with_a_staff_and_uses_her_crystal_orb_t}</Description>
+      <Description>The_mystic_fights_with_a_staff_and_uses_her_crystal_orb_t</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>10</Index>
@@ -366,11 +366,11 @@
       <UnlockLevel level="20" type="0x0322">Huntress</UnlockLevel>
       <UnlockLevel level="20" type="0x0321">Necromancer</UnlockLevel>
       <UnlockCost>999</UnlockCost>
-      <DisplayId>{players.Mystic}</DisplayId>
+      <DisplayId>Mystic</DisplayId>
    </Object>
    <Object type="0x0324" id="Trickster">
       <Class>Player</Class>
-      <Description>{players.The_trickster_fights_with_a_dagger_while_using_her_magica}</Description>
+      <Description>The_trickster_fights_with_a_dagger_while_using_her_magica</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>11</Index>
@@ -400,11 +400,11 @@
       <UnlockLevel level="20" type="0x0320">Assassin</UnlockLevel>
       <UnlockLevel level="20" type="0x031f">Paladin</UnlockLevel>
       <UnlockCost>999</UnlockCost>
-      <DisplayId>{players.Trickster}</DisplayId>
+      <DisplayId>Trickster</DisplayId>
    </Object>
    <Object type="0x0325" id="Sorcerer">
       <Class>Player</Class>
-      <Description>{players.The_sorcerer_uses_his_scepter_to_fire_blasts_of_chain_lig}</Description>
+      <Description>The_sorcerer_uses_his_scepter_to_fire_blasts_of_chain_lig</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>12</Index>
@@ -434,11 +434,11 @@
       <UnlockLevel level="20" type="0x0321">Necromancer</UnlockLevel>
       <UnlockLevel level="20" type="0x0320">Assassin</UnlockLevel>
       <UnlockCost>999</UnlockCost>
-      <DisplayId>{players.Sorcerer}</DisplayId>
+      <DisplayId>Sorcerer</DisplayId>
    </Object>
    <Object type="0x0326" id="Ninja">
       <Class>Player</Class>
-      <Description>{players.The_ninja_relies_on_speed_and_skill,_using_katanas_and_ni}</Description>
+      <Description>The_ninja_relies_on_speed_and_skill,_using_katanas_and_ni</Description>
       <AnimatedTexture>
          <File>players</File>
          <Index>13</Index>
@@ -468,6 +468,42 @@
       <UnlockLevel level="20" type="0x0300">Rogue</UnlockLevel>
       <UnlockLevel level="20" type="0x031d">Warrior</UnlockLevel>
       <UnlockCost>999</UnlockCost>
-      <DisplayId>{players.Ninja}</DisplayId>
+      <DisplayId>Ninja</DisplayId>
    </Object>
+           <Object type="0x462f" id="Xulust">
+            <Class>Player</Class>
+            <Description>Xulust Test</Description>
+            <AnimatedTexture>
+               <File>players</File>
+               <Index>12</Index>
+            </AnimatedTexture>
+            <HitSound>player/rogue_hit</HitSound>
+            <DeathSound>player/rogue_death</DeathSound>
+            <Player/>
+            <BloodProb>1.0</BloodProb>
+            <SlotTypes>1, 20, 7, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</SlotTypes>
+            <Equipment>0xa00, 0xab1, -1, -1, 0xa22, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1</Equipment>
+            <MaxHitPoints max="920">200</MaxHitPoints>
+            <MaxMagicPoints max="385">100</MaxMagicPoints>
+            <Attack max="85">20</Attack>
+            <Defense max="15">0</Defense>
+            <Speed max="50">15</Speed>
+            <Dexterity max="60">16</Dexterity>
+            <HpRegen max="75">20</HpRegen>
+            <MpRegen max="60">18</MpRegen>
+            <LevelIncrease min="25" max="40">MaxHitPoints</LevelIncrease>
+            <LevelIncrease min="3" max="8">MaxMagicPoints</LevelIncrease>
+            <LevelIncrease min="2" max="2">Attack</LevelIncrease>
+            <LevelIncrease min="0" max="1">Defense</LevelIncrease>
+            <LevelIncrease min="0" max="2">Speed</LevelIncrease>
+            <LevelIncrease min="1" max="2">Dexterity</LevelIncrease>
+            <LevelIncrease min="1" max="3">HpRegen</LevelIncrease>
+            <LevelIncrease min="1" max="4">MpRegen</LevelIncrease>
+            <UnlockLevel level="20" type="0x0300">Rogue</UnlockLevel>
+            <UnlockLevel level="20" type="0x031d">Warrior</UnlockLevel>
+            <UnlockLevel level="20" type="0x0321">Necromancer</UnlockLevel>
+            <UnlockLevel level="20" type="0x0320">Assassin</UnlockLevel>
+            <UnlockCost>299</UnlockCost>
+            <DisplayId>Xulust</DisplayId>
+         </Object>
 </Objects>

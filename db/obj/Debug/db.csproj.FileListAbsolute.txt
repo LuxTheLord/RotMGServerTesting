@@ -18,6 +18,6 @@ C:\Users\Amon\Desktop\RotMGServerTesting\db\bin\Debug\MySql.Data.dll
 C:\Users\Amon\Desktop\RotMGServerTesting\db\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Amon\Desktop\RotMGServerTesting\db\bin\Debug\log4net.xml
 C:\Users\Amon\Desktop\RotMGServerTesting\db\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Amon\Desktop\RotMGServerTesting\db\obj\Debug\db.csprojResolveAssemblyReference.cache
 C:\Users\Amon\Desktop\RotMGServerTesting\db\obj\Debug\db.dll
 C:\Users\Amon\Desktop\RotMGServerTesting\db\obj\Debug\db.pdb
+C:\Users\Amon\Desktop\RotMGServerTesting\db\obj\Debug\db.csprojResolveAssemblyReference.cache

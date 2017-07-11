@@ -437,7 +437,7 @@
       <Consumable/>
       <Soulbound/>
       <Activate id="Treasure Cave Portal">Create</Activate>
-      <feedPower>250</feedPower>
+
       <DisplayId>{cave.Treasure_Map}</DisplayId>
    </Object>
    <Object type="0x5e2e" id="Treasure Cave Portal">

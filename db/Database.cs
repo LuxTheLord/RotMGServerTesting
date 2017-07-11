@@ -300,7 +300,7 @@ AND characters.charId=death.chrId;";
             {
                 cmd = CreateQuery();
                 cmd.CommandText =
-                    "INSERT INTO stats(accId, fame, totalFame, credits, totalCredits) VALUES(@accId, 1000, 1000, 20000, 20000);";
+                    "INSERT INTO stats(accId, fame, totalFame, credits, totalCredits) VALUES(@accId, 0, 0, 21, 21);";
                 cmd.Parameters.AddWithValue("@accId", accId);
                 cmd.ExecuteNonQuery();
 
@@ -1321,7 +1321,7 @@ VALUES(@accId, @petId, @objType, @skinName, @skin, @rarity, @maxLevel, @abilitie
                     if(lastSeen == DateTime.MinValue)
                         return false;
 
-                    int timeInSec = 600 - (int)(DateTime.UtcNow - lastSeen).TotalSeconds;
+                    int timeInSec = 120 - (int)(DateTime.UtcNow - lastSeen).TotalSeconds;
                     bool accInUse = rdr.GetInt32("accountInUse") == 1;
                     if (accInUse && timeInSec > 0)
                     {
