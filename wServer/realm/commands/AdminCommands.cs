@@ -16,32 +16,25 @@ using wServer.realm.worlds;
 
 namespace wServer.realm.commands
 {
-    internal class TestCommand : Command
-    {
-        public TestCommand()
-            : base("t", 1)
+        internal class AccIdCommand : Command
         {
+            public AccIdCommand()
+                : base("accid", 0) { }
+
+            protected override bool Process(Player player, RealmTime time, string[] args)
+            {
+                if (string.IsNullOrEmpty(args[0]))
+                {
+                    player.SendHelp("Usage: /accid <player>");
+                    return false;
+                }
+                var plr = player.Manager.FindPlayer(args[0]);
+                player.SendInfo("Account ID of " + plr.Name + " : " + plr.AccountId);
+                return true;
+            }
         }
 
-        protected override bool Process(Player player, RealmTime time, string[] args)
-        {
-            Entity en = Entity.Resolve(player.Manager, "Zombie Wizard");
-            en.Move(player.X, player.Y);
-            player.Owner.EnterWorld(en);
-            player.UpdateCount++;
-            //player.Client.SendPacket(new DeathPacket
-            //{
-            //    AccountId = player.AccountId,
-            //    CharId = player.Client.Character.CharacterId,
-            //    Killer = "mountains.beholder",
-            //    obf0 = 10000,
-            //    obf1 = 10000
-            //});
-            return true;
-        }
-    }
-
-    internal class AddGiftCodeCommand : Command
+        internal class AddGiftCodeCommand : Command
     {
         public AddGiftCodeCommand()
             : base("gcode", 1)
@@ -1370,6 +1363,30 @@ namespace wServer.realm.commands
                 player.SendHelp("Shortcuts: Hp, Mp, Atk, Def, Spd, Vit, Wis, Dex");
                 return false;
             }
+        }
+    }
+    internal class LeftToMax : Command
+    {
+        public LeftToMax() : base("lefttomax") { }
+        protected override bool Process(Player player, RealmTime time, string[] args)
+        {
+            int Hp = player.ObjectDesc.MaxHitPoints - player.Stats[0];
+            int Mp = player.ObjectDesc.MaxMagicPoints - player.Stats[1];
+            int Atk = player.ObjectDesc.MaxAttack - player.Stats[2];
+            int Def = player.ObjectDesc.MaxDefense - player.Stats[3];
+            int Spd = player.ObjectDesc.MaxSpeed - player.Stats[4];
+            int Vit = player.ObjectDesc.MaxHpRegen - player.Stats[5];
+            int Wis = player.ObjectDesc.MaxMpRegen - player.Stats[6];
+            int Dex = player.ObjectDesc.MaxDexterity - player.Stats[7];
+            player.SendInfo(Hp + "Till maxed Health");
+            player.SendInfo(Mp + "Till maxed Mana");
+            player.SendInfo(Atk + "Till maxed Attack");
+            player.SendInfo(Def + "Till maxed Defense");
+            player.SendInfo(Spd + "Till maxed Speed");
+            player.SendInfo(Vit + "Till maxed HpRegen");
+            player.SendInfo(Wis + "Till maxed MpRegen");
+            player.SendInfo(Dex + "Till maxed Dexterity");
+            return true;
         }
     }
 

@@ -1,0 +1,13 @@
+2017-07-10 00:52:36,415 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:17:08,255 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:17:14,352 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:20:31,144 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:20:31,308 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!
+2017-07-10 02:29:38,818 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:29:38,952 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!
+2017-07-10 02:38:31,005 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:38:31,180 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!
+2017-07-10 02:40:21,841 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:40:21,972 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!
+2017-07-10 22:16:37,169 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 22:16:37,280 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!

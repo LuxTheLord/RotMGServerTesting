@@ -1,0 +1,12 @@
+2017-07-10 00:52:34,510 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:20:38,697 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:20:38,837 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!
+2017-07-10 02:28:20,907 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:28:21,022 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!
+2017-07-10 02:29:28,721 [6] ERROR Server - Not supported server detected: 
+Host: 127.0.0.1
+Port: 2050
+2017-07-10 02:40:14,221 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 02:40:14,398 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!
+2017-07-10 22:16:43,405 [Entry] WARN  db.data.XmlData - 0x0065 and 0x0061 has the same name of Grey Circle!
+2017-07-10 22:16:43,509 [Entry] WARN  db.data.XmlData - 'Xulust' and 'Clockwork Golem' has the same ID of 0x062e!

@@ -27,7 +27,7 @@ namespace wServer.networking
 
     public class Client : IDisposable
     {
-        public const string SERVER_VERSION = "27.3.2";
+        public const string SERVER_VERSION = "27.7.X2";
         private bool disposed;
 
         private static readonly ILog log = LogManager.GetLogger(typeof (Client));
@@ -206,7 +206,7 @@ namespace wServer.networking
                 //message.Body = "<center>Your giftcode is: " + code + "</br> Check the items in your giftcode <a href=\"" + Program.Settings.GetValue<string>("serverDomain", "localhost") + "/CheckGiftCode.html\" target=\"_blank\">here</a> or redeem the code <a href=\"" + Program.Settings.GetValue<string>("serverDomain", "localhost") + "/RedeemGiftCode.html\" target=\"_blank\">here</a></center>";
 
                 //Program.SendEmail(message);
-                Player.SendInfo($"You have received a new GiftCode: {key}\nRedeem it at: {Program.Settings.GetValue("serverDomain")}/GiftCode.html or\n type /giftcode to scan it with your mobile via qr code");
+                Player.SendInfo("");
             });
         }
 

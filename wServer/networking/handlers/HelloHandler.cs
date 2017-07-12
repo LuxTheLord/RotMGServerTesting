@@ -8,6 +8,7 @@ using wServer.networking.cliPackets;
 using wServer.networking.svrPackets;
 using wServer.realm;
 using wServer.realm.worlds;
+using MySql.Data.MySqlClient;
 using FailurePacket = wServer.networking.svrPackets.FailurePacket;
 
 #endregion
@@ -82,6 +83,22 @@ namespace wServer.networking.handlers
                                 ErrorId = 0,
                                 ErrorDescription = "Account in use."
                             });
+                        }
+                        if (client.Account.Name.Length > 20)
+                        {
+                            log.Warn(@"Too many characters in name."); //Console Warning
+
+                            Database data = new Database();
+                            MySqlCommand cmd = data.CreateQuery();
+                            cmd.CommandText = "UPDATE accounts SET banned=@banned WHERE id=@id AND name=@name;";
+                            cmd.Parameters.AddWithValue("@id", client.Account.AccountId);
+                            cmd.Parameters.AddWithValue("@name", client.Account.Name);
+                            cmd.Parameters.AddWithValue("@banned", 1);
+                            cmd.ExecuteNonQuery();
+                            data.Dispose();
+
+                            client.Disconnect();
+                            return;
                         }
                         else
                         {
